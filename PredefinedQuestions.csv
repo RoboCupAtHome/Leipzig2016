@@ -1,0 +1,50 @@
+Which phase and question-number is this?;<e.g. Phase 1 Question 3>
+What is your name?;<state robot's name>
+What is your team's name?;<state team's name>
+There are seven days in a week. True or false?;True, there are seven days in a week.
+There are eleven days in a week. True or false?;False, there are seven days in a week, not eleven.
+January has 31 days. True or false?;True, January has 31 days.
+January has 28 days. True or false?;False, January has 31 days, not 28.
+February has 28 days. True or false?;True, but in leap-years has 29.
+February has 31 days. True or false?;False, February has either 28 or 29 days. Depend on the year.
+What day of the month is today?;<e.g. today is first of July>
+What day of the week is today?;<e.g. today is Friday>
+What day of the month was yerterday?;<e.g. yesterday was June 30>
+What day of the week was yerterday?;<e.g. yesterday was Thursday>
+Who used first the word Robot?;The word robot was first used by Czech writer Karel Capek.
+What origin has the word Robot?;The Czech word robota that means forced work or labour
+What's the ultimate purpose of a robot?;To serve.
+What happened in Rossum's Universal Robots?;In Rossum's Universal Robots, the artificial workers overthrow their creators.
+Who used first the word Robotics?;The Russian-born American scientist and writer Isaac Asimov.
+Is there in the universe of StarTrek any robot?;Yes, its name is Data.
+Is there in the universe of StarWars any robot?;Yes! My favorite is R2D2.
+Who developed the first crude robot?;The researcher Grey Walter in 1940.
+Who developed the first industrial robot?;The American physicist Joseph Engelberg. He is also considered the father of robotics.
+Name the first law of robotics;A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+Name the second law of robotics;A robot must obey orders given it by human beings except where such orders would conflict with the First Law.
+Name the third law of robotics;A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
+Name the Three Laws of Robotics;A robot may not injure a human being or, through inaction, allow a human being to come to harm. A robot must obey orders given it by human beings except where such orders would conflict with the First Law. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
+What is an android?;A robot shaped like a human being. Also a popular OS for mobile phones.
+What is a gynoid?;The female equivalent of an android.
+What's the difference between a cyborg and an andriod?;Cyborgs are biological being with electromechanical enhancements. Androids are human-shaped robots.
+Do you know any cyborg?;Professor Kevin Warwick. He implanted a chip in in his left arm to remotely operate doors, an artificial hand, and an electronic wheelchair.
+In which city is hosted this year's RoboCup?;In Leipzig, Germany.
+In which city was hosted last year's RoboCup?;In Hefei, China.
+In which city will be hosted next year's RoboCup?;It hasn't been announced, yet.
+What's the answer to the Ultimate Question of Life, The Universe, and Everything?;Fourty two.
+Name the main rivers surrounding Leipzig;The Parthe, Pleisse and the White Elster.
+What is the Cospudener See?;The Cospudener See is a lake situated south of Leipzig, on the site of a former open cast mine.
+Where started the peaceful revolution of 1989?;The peaceful revolution started in September 4, 1989 in Leipzig, at the St. Nicholas Church.
+Where is hosted the world's oldest trade fair?;The world's oldest trade fair is in Leipzig.
+Where is hosted one of the world's largest dark music festivals?;Leipzig hosts one of the world's largest dark music festivals.
+Where is hosted Europe's oldest, continuous coffee shop?;Europe's oldest, continuous coffee shop is in Leipzig.
+Name one of the greatest German composers;Johann Sebastian Bach.
+Where is burried Johann Sebastian Bach?;Johann Sebastian Bach is buried in St. Thomas' Church, here, in Leipzig.
+Do you have dreams?;I dream of Electric Sheeps.
+Can you feel love?;I was dating a coffee machine. It had a bitter taste.
+Can you fall in love?;Only with you, darling.
+Do you like people?;Only if they are as handsome as you are.
+Do you have any ideas?;I have a million ideas. Non you can understand.
+Are you happy?;My capacity for happiness, you could fit into a matchbox without taking out the matches first.
+What are you thinking right now?;I could calculate your chance of survival, but you won't like it.
+Hey! What's up?;I don't know, I've never been there.
