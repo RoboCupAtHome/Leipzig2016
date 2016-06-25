@@ -4,7 +4,7 @@
 #
 ###############################################################################
 
-Please look for Jane in the kitchen, follow her, and locate a banana in the kitchen.
+Robot please take the pear from the bathroom locker, follow Angel who is at the mirror, and locate Ava in the living room.
 
 
 ###############################################################################
@@ -13,7 +13,7 @@ Please look for Jane in the kitchen, follow her, and locate a banana in the kitc
 #
 ###############################################################################
 
-Robot please take the sponge from the shelf, hand it to Annie in the bed, and follow her.
+Could you look for a lays in the living room, and give it to me.
 
 
 ###############################################################################
@@ -22,7 +22,7 @@ Robot please take the sponge from the shelf, hand it to Annie in the bed, and fo
 #
 ###############################################################################
 
-Please grasp the crackers from the bed, deliver it to Albert in the chair, and follow him.
+Could you deliver a lays on the stool, look for a orange in the corridor, and look for a banana in the bathroom.
 
 
 ###############################################################################
@@ -31,7 +31,7 @@ Please grasp the crackers from the bed, deliver it to Albert in the chair, and f
 #
 ###############################################################################
 
-Could you please take Jane from the chair to the exit, look for Parker in the chair, and guide him to the chair.
+Deliver a lays on the table, locate the pointing left person in the bedroom, and take him to the kitchen.
 
 
 ###############################################################################
@@ -40,7 +40,7 @@ Could you please take Jane from the chair to the exit, look for Parker in the ch
 #
 ###############################################################################
 
-Could you get the orange from the bin, go to the bin, and say something about yourself.
+Locate Jacob in the dining room, look for the pointing right person in the bedroom, and escort him to the mirror.
 
 
 ###############################################################################
@@ -49,11 +49,29 @@ Could you get the orange from the bin, go to the bin, and say something about yo
 #
 ###############################################################################
 
-Please pick up the lays from the shelf, bring it to Louise in the chair, and answer a question.
+Tell your team's affiliation, locate Angel in the wine shelf, and escort her to the table.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Robot please take the orange from the table, give it to Emma in the buffette, and take her to the bedroom.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Could you get the pear from the bookcase, deliver it to Michael in the fridge, and answer a question.
 
 question
-	Q: What was discovered in 1922 by Howard Carter?
-	A: Tutankamen tomb
+	Q: Which robot was the star in the movie Wall-E?
+	A: Wall-E
 
 ###############################################################################
 #
@@ -61,16 +79,7 @@ question
 #
 ###############################################################################
 
-Could you find Angel in the corridor, look for a pringles in the corridor, and bring it to me.
-
-
-###############################################################################
-#
-# Example 
-#
-###############################################################################
-
-Find a milk in the bedroom, and deliver it to me.
+Could you please look for a sponge in the corridor, give it to me, and follow James who is at the plant.
 
 
 ###############################################################################
@@ -79,15 +88,6 @@ Find a milk in the bedroom, and deliver it to me.
 #
 ###############################################################################
 
-Robot please find a apple in the bathroom, say the time, and locate a apple in the bathroom.
-
-
-###############################################################################
-#
-# Example 
-#
-###############################################################################
-
-Please look for a pear in the corridor, bring it to Taylor in the chair, and find a pear in the corridor.
+Could you please look for Emma in the mirror, take the coke from the stool, and go to the coffee table.
 
 

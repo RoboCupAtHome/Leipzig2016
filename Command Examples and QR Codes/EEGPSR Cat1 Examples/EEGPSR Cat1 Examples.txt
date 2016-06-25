@@ -4,7 +4,7 @@
 #
 ###############################################################################
 
-Please bring me some cereal,  and coffee in a tray
+Put all the beverages on the desk
 
 
 ###############################################################################
@@ -13,7 +13,18 @@ Please bring me some cereal,  and coffee in a tray
 #
 ###############################################################################
 
-Put all the beverages on the dinner table
+Could you please pour some choco flakes in a bowl
+
+Remarks
+	 If asked, serve at desk
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Robot please serve the breakfast
 
 
 ###############################################################################
@@ -22,7 +33,7 @@ Put all the beverages on the dinner table
 #
 ###############################################################################
 
-Robot please bring me some choco flakes,  and coffee in a tray
+Bring me something for breakfast
 
 
 ###############################################################################
@@ -31,7 +42,7 @@ Robot please bring me some choco flakes,  and coffee in a tray
 #
 ###############################################################################
 
-Robot please bring me the hair brush
+Could you bring me something for breakfast
 
 
 ###############################################################################
@@ -40,7 +51,7 @@ Robot please bring me the hair brush
 #
 ###############################################################################
 
-Put all the beverages on the bed
+Take the apple from the stool, and put it into the box
 
 
 ###############################################################################
@@ -49,7 +60,7 @@ Put all the beverages on the bed
 #
 ###############################################################################
 
-Bring the phone to the bin
+Pick up the apple from the box, and give it to me
 
 
 ###############################################################################
@@ -58,7 +69,7 @@ Bring the phone to the bin
 #
 ###############################################################################
 
-Robot please bring me some choco flakes,  and milk in a tray
+Could you bring me some muesli,  and orange juice in a tray
 
 
 ###############################################################################
@@ -67,7 +78,7 @@ Robot please bring me some choco flakes,  and milk in a tray
 #
 ###############################################################################
 
-Could you please open the corridor door
+Could you bring me something for breakfast
 
 
 ###############################################################################
@@ -76,15 +87,6 @@ Could you please open the corridor door
 #
 ###############################################################################
 
-Get the banana from the oven, and place it to the bed
-
-
-###############################################################################
-#
-# Example 
-#
-###############################################################################
-
-Could you pick up the tray and put it onto the bin
+Robot please open the exit door
 
 

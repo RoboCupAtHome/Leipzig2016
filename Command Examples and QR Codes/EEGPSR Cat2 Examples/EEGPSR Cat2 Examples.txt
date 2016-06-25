@@ -4,7 +4,7 @@
 #
 ###############################################################################
 
-Could you take the right-most beverages from the kitchen table to the bin.
+Could you bring me the snacks at the middle bottom stool.
 
 
 ###############################################################################
@@ -13,7 +13,7 @@ Could you take the right-most beverages from the kitchen table to the bin.
 #
 ###############################################################################
 
-Could you count the cleaning stuff items at the bathroom locker and report to Ariel in the bed.
+Take the smallest object from the wardrobe to the wine shelf.
 
 
 ###############################################################################
@@ -22,7 +22,7 @@ Could you count the cleaning stuff items at the bathroom locker and report to Ar
 #
 ###############################################################################
 
-Take the tallest object from the bed to the shelf.
+Could you please tell me how many beverages items are in the stove.
 
 
 ###############################################################################
@@ -31,7 +31,7 @@ Take the tallest object from the bed to the shelf.
 #
 ###############################################################################
 
-Please count the beverages items at the dinner table and inform me.
+Take the beverages at the shelf's middle bottom to the wine shelf.
 
 
 ###############################################################################
@@ -40,7 +40,7 @@ Please count the beverages items at the dinner table and inform me.
 #
 ###############################################################################
 
-Robot please bring me the red fruits from the shelf.
+Please describe the objects in the coffee table to me
 
 
 ###############################################################################
@@ -49,7 +49,7 @@ Robot please bring me the red fruits from the shelf.
 #
 ###############################################################################
 
-Please take the biggest fruits from the dinner table to the bin.
+Could you please describe the objects in the bin to me
 
 
 ###############################################################################
@@ -58,7 +58,7 @@ Please take the biggest fruits from the dinner table to the bin.
 #
 ###############################################################################
 
-Could you please bring me the fruits at the right dinner table.
+Please count the beverages items at the table and inform Liam in the buffette.
 
 
 ###############################################################################
@@ -67,7 +67,7 @@ Could you please bring me the fruits at the right dinner table.
 #
 ###############################################################################
 
-Take the cleaning stuff at the shelf's right to the bin.
+Robot please bring me the yellow object from the stove.
 
 
 ###############################################################################
@@ -76,7 +76,7 @@ Take the cleaning stuff at the shelf's right to the bin.
 #
 ###############################################################################
 
-Could you please bring me the smallest beverages from the shelf.
+Could you please bring me the cleaning stuff at the right bookcase.
 
 
 ###############################################################################
@@ -85,6 +85,6 @@ Could you please bring me the smallest beverages from the shelf.
 #
 ###############################################################################
 
-Take the beverages at the dinner table's middle bottom to the kitchen table.
+Take the fruits at the wardrobe's right to the dishwasher.
 
 

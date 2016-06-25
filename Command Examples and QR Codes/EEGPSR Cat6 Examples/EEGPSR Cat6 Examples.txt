@@ -4,7 +4,7 @@
 #
 ###############################################################################
 
-Could you navigate to the bed, find Daniel, and guide him to the bed.
+Locate Noah in the wardrobe, join the dark side, and navigate to the wine shelf, find Isabella.
 
 
 ###############################################################################
@@ -13,7 +13,7 @@ Could you navigate to the bed, find Daniel, and guide him to the bed.
 #
 ###############################################################################
 
-Please get the apple from the bathroom locker, navigate to the bedroom, look for Daniel, and follow him.
+Could you go to the plant, find Robin, and take her to the exit.
 
 
 ###############################################################################
@@ -22,7 +22,7 @@ Please get the apple from the bathroom locker, navigate to the bedroom, look for
 #
 ###############################################################################
 
-Tell your team's affiliation, find Ariel in the kitchen, and follow her.
+Go to the sofa, locate Angel, and guide her to the exit.
 
 
 ###############################################################################
@@ -31,7 +31,7 @@ Tell your team's affiliation, find Ariel in the kitchen, and follow her.
 #
 ###############################################################################
 
-Could you get the orange from the bathroom locker, navigate to the chair, find Taylor, and escort her to the chair.
+Robot please go to the wine shelf, locate Sophia, go to the mirror, find Ethan, and go to the wardrobe, locate Madison.
 
 
 ###############################################################################
@@ -40,7 +40,7 @@ Could you get the orange from the bathroom locker, navigate to the chair, find T
 #
 ###############################################################################
 
-Could you please find Wayne in the chair, take him to the exit, and find Elaine in the chair.
+Could you please go to the corridor, find Jacob, follow him, and grasp the apple from the desk.
 
 
 ###############################################################################
@@ -49,19 +49,7 @@ Could you please find Wayne in the chair, take him to the exit, and find Elaine 
 #
 ###############################################################################
 
-Say what day is tomorrow, find Wayne in the bed, and answer a question.
-
-question
-	Q: How many countries are in Europe?
-	A: 50
-
-###############################################################################
-#
-# Example 
-#
-###############################################################################
-
-Could you please locate Angel in the bed, and guide him to the exit.
+Could you enter to the corridor, locate Madison, follow her, and get the orange from the shelf.
 
 
 ###############################################################################
@@ -70,7 +58,7 @@ Could you please locate Angel in the bed, and guide him to the exit.
 #
 ###############################################################################
 
-Please join the dark side, find Manny in the bed, and grasp the orange from the kitchen table.
+Join the dark side, take the cloth from the stove, and place it on the dinner table.
 
 
 ###############################################################################
@@ -79,7 +67,7 @@ Please join the dark side, find Manny in the bed, and grasp the orange from the 
 #
 ###############################################################################
 
-Please place beer on the bathroom locker, and join the dark side.
+Please grasp the banana from the bin, deliver it to Ethan in the tv, and join the dark side.
 
 
 ###############################################################################
@@ -88,9 +76,15 @@ Please place beer on the bathroom locker, and join the dark side.
 #
 ###############################################################################
 
-Could you navigate to the bathroom, find Annie, follow her, and answer a question.
+Robot please enter to the bedroom, find the chocolate, and hand it to me.
 
-question
-	Q: How many rings has the Olympic flag?
-	A: Five
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Could you grasp the knife from the wine shelf look for Isabella and kill her.
+
 

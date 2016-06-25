@@ -4,7 +4,78 @@
 #
 ###############################################################################
 
-Robot please find a cleaning stuff in the bedroom
+Guide a person to the exit
+
+a person
+	Robin
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Could you grasp the orange from the bin and deliver it to a person
+
+a person
+	Is at the chair 
+	Charlotte
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Could you take the fruits from the kitchen and hand it to Robin in the chair
+
+fruits
+	pear
+kitchen
+	dishwasher
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Please pick up the fruits from the living room and hand it to me
+
+fruits
+	apple
+living room
+	magazine rack
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Could you please look for a fruits in the living room
+
+fruits
+	A object
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Locate a chocolate
+
+chocolate
+	Place it in the living room
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Could you find a cleaning stuff in the kitchen
 
 cleaning stuff
 	A object
@@ -15,10 +86,10 @@ cleaning stuff
 #
 ###############################################################################
 
-Could you take Annie
+Could you follow him
 
 Remarks
-	Destination is hall
+	Person, Ethan, is in the table
 
 ###############################################################################
 #
@@ -26,21 +97,10 @@ Remarks
 #
 ###############################################################################
 
-Locate a pringles
-
-pringles
-	Place it in the bathroom
-
-###############################################################################
-#
-# Example 
-#
-###############################################################################
-
-Please follow him
+Robot please say something
 
 Remarks
-	Person, Angel, is in the chair
+	your team's affiliation
 
 ###############################################################################
 #
@@ -48,68 +108,10 @@ Remarks
 #
 ###############################################################################
 
-Robot please look for a person and escort her to the bed
+Could you please grasp the cleaning stuff from the bedroom and put it on the stove
 
-a person
-	Is at the bed 
-	Elaine
-
-###############################################################################
-#
-# Example 
-#
-###############################################################################
-
-Robot please get the orange from the bathroom locker and put it on the bathroom
-
-bathroom
-	bathroom locker
-
-###############################################################################
-#
-# Example 
-#
-###############################################################################
-
-Could you please tell something
-
-Remarks
-	something about yourself
-
-###############################################################################
-#
-# Example 
-#
-###############################################################################
-
-Could you please locate a person and take him to the exit
-
-a person
-	Is at the bed 
-	Albert
-
-###############################################################################
-#
-# Example 
-#
-###############################################################################
-
-Could you locate a person and escort her to the exit
-
-a person
-	Is at the bed 
-	Jane
-
-###############################################################################
-#
-# Example 
-#
-###############################################################################
-
-Robot please take the fruits from the kitchen and bring it to Ariel in the bed
-
-fruits
-	pear
-kitchen
-	kitchen table
+cleaning stuff
+	cloth
+bedroom
+	stool
 
