@@ -1,0 +1,129 @@
+﻿###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Could you please find a snacks in the corridor, deliver it to me, and follow Wayne who is at the bed.
+
+snacks
+	lays
+bed
+	All paths are blocked
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Please look for Annie in the hall, follow her, and follow Angel who is at the chair.
+
+chair
+	All paths are blocked
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Please navigate to the bed, pick up the brush from the bed, and put it on the bed.
+
+bed
+	The object is not there
+bed
+	Access to destination is blocked
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Locate Parker in the chair, and take him to the chair.
+
+chair
+	All paths are blocked
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Find Angel in the chair, take him to the chair, and place a cleaning stuff on the bed.
+
+chair
+	All paths are blocked
+cleaning stuff
+	detergent
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Locate a beverages in the corridor, put it on the shelf, and pick up the beverages from the shelf.
+
+beverages
+	beer
+shelf
+	Access to destination is blocked
+beverages
+	beer
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Could you please follow Fanny who is at the bed, find the waving person in the bathroom, and follow him.
+
+bed
+	All paths are blocked
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Could you please locate the rising left arm person in the corridor, take him to the apartment, and locate Daniel in the corridor.
+
+apartment
+	corridor
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Guide Ariel from the bedroom to the chair, look for a snacks in the hall, and locate a snacks in the hall.
+
+bedroom
+	chair
+chair
+	All paths are blocked
+snacks
+	lays
+snacks
+	lays
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Please grasp the beverages from the bin, bring it to me, and answer a question.
+
+beverages
+	milk
+question
+	Q: Which country was the first to introduce old age pensions?
+	A: Germany
+

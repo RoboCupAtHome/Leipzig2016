@@ -1,0 +1,93 @@
+﻿###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Please look for Jane in the kitchen, follow her, and locate a banana in the kitchen.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Robot please take the sponge from the shelf, hand it to Annie in the bed, and follow her.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Please grasp the crackers from the bed, deliver it to Albert in the chair, and follow him.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Could you please take Jane from the chair to the exit, look for Parker in the chair, and guide him to the chair.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Could you get the orange from the bin, go to the bin, and say something about yourself.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Please pick up the lays from the shelf, bring it to Louise in the chair, and answer a question.
+
+question
+	Q: What was discovered in 1922 by Howard Carter?
+	A: Tutankamen tomb
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Could you find Angel in the corridor, look for a pringles in the corridor, and bring it to me.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Find a milk in the bedroom, and deliver it to me.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Robot please find a apple in the bathroom, say the time, and locate a apple in the bathroom.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Please look for a pear in the corridor, bring it to Taylor in the chair, and find a pear in the corridor.
+
+

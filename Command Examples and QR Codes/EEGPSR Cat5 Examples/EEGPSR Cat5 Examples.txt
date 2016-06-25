@@ -1,0 +1,114 @@
+﻿###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Offer something to eat to all the people in the corridor
+
+corridor
+	At least three people must be in the corridor
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Could you tell me how many people wearing jacket are in the bathroom.
+
+bathroom
+	At least three people must be in the bathroom
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Could you find the rising left arm woman in the corridor and follow them
+
+corridor
+	At least three people must be in the corridor
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Robot please find the youngest woman in the dining room and guide them to the kitchen
+
+dining room
+	At least three people must be in the dining room
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Robot please bring a beverages to the woman dressed with yellow coat in the corridor
+
+beverages
+	milk placed at bathroom locker
+corridor
+	At least three people must be in the corridor
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Offer something to drink to all the orange-dressed people in the bedroom
+
+bedroom
+	At least three people must be in the bedroom
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Robot please tell me how many rising left arm children are in the bedroom.
+
+bedroom
+	At least three people must be in the bedroom
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Greet the child in the hall
+
+hall
+	At least three people must be in the hall
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Robot please find the smallest person in the bedroom and follow them
+
+bedroom
+	At least three people must be in the bedroom
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Robot please bring a fruits to the tallest woman in the bathroom
+
+fruits
+	orange juice placed at bathroom locker
+bathroom
+	At least three people must be in the bathroom
+

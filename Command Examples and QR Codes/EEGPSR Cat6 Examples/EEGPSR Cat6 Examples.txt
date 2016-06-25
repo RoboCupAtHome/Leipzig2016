@@ -1,0 +1,96 @@
+﻿###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Could you navigate to the bed, find Daniel, and guide him to the bed.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Please get the apple from the bathroom locker, navigate to the bedroom, look for Daniel, and follow him.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Tell your team's affiliation, find Ariel in the kitchen, and follow her.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Could you get the orange from the bathroom locker, navigate to the chair, find Taylor, and escort her to the chair.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Could you please find Wayne in the chair, take him to the exit, and find Elaine in the chair.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Say what day is tomorrow, find Wayne in the bed, and answer a question.
+
+question
+	Q: How many countries are in Europe?
+	A: 50
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Could you please locate Angel in the bed, and guide him to the exit.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Please join the dark side, find Manny in the bed, and grasp the orange from the kitchen table.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Please place beer on the bathroom locker, and join the dark side.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Could you navigate to the bathroom, find Annie, follow her, and answer a question.
+
+question
+	Q: How many rings has the Olympic flag?
+	A: Five
+

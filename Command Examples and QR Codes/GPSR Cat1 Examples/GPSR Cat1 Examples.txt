@@ -1,0 +1,93 @@
+﻿###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Grasp the crackers from the bin, give it to Elaine in the chair, and go to the bin.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Take the sponge from the kitchen table, hand it to Alfred in the bed, and locate Alfred in the bed.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Get the crackers from the bin, take the crackers from the bin, and place it on the bin.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Grasp the sponge from the bin, place it on the bin, and tell a joke.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Grasp the crackers from the bathroom locker, deliver it to Daniel in the chair, and say something about yourself.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Say your team's country, say the day of the week, and look for Daniel in the bed.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Take the pringles from the kitchen table, bring it to Angel in the bed, and navigate to the kitchen table.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Pick up the chocolate from the kitchen table, say your team's name, and grasp the chocolate from the kitchen table.
+
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Locate Jane in the bed, look for Jane in the bed, and answer a question.
+
+question
+	Q: Greek mathematician cylinder enclosed sphere carved on grave?
+	A: Archimedes
+
+###############################################################################
+#
+# Example 
+#
+###############################################################################
+
+Locate Rachel in the bed, take the chocolate from the bin, and go to the bin.
+
+
