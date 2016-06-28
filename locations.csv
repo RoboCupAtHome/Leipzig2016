@@ -1,0 +1,35 @@
+Location,Area,Location category,Associated object category,Manipulation
+,,,,
+Arena A,,,,
+,,,,
+1,Office,Drawer,,Yes
+2,Office,Desk,Snacks,Yes
+3,Bedroom,Bed,,No
+4,Bedroom,Bedside,Candies,Yes
+5,Kitchen,Bar,,Yes
+6,Kitchen,Cupboard,,Yes
+7,Kitchen,Sink,Containers,Yes
+8,Kitchen,Sideshelf,Food,Yes
+9,Kitchen,Bookcase,Drinks,Yes
+10,Kitchen,Dining Table,,Yes
+11,Living room,TV stand,,Yes
+12,Living room,Living shelf,Toiletries,Yes
+13,Living room,Living Table,,Yes
+14,Corridor,Cabinet,,Yes
+,,,,
+Arena B,,,,
+,,,,
+1,Bedroom,Bed,,No
+2,Bedroom,Desk,Snacks,Yes
+3,Bedroom,Bedside,Candies,Yes
+4,Kitchen,Bar,,Yes
+5,Kitchen,Sink,Containers,Yes
+6,Kitchen,Cupboard,Drinks,Yes
+7,Kitchen,Sideshelf,Food,Yes
+8,Dining room,TV stand,,Yes
+9,Dining room,Dining Table,,Yes
+10,Dining room,Bookcase,,Yes
+11,Living room,Living shelf,,Yes
+12,Living room,Living Table,,Yes
+13,Living room,Drawer,Toiletries,Yes
+14,Corridor,Cabinet,,Yes
