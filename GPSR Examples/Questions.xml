@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+  <question>
+    <q>Who are the inventors of the C programming language?</q>
+    <a>Ken Thompson and Dennis Ritchie </a>
+  </question>
+  <question>
+    <q>Who is the inventor of the Python programming language?</q>
+    <a>Guido van Rossum</a>
+  </question>
+  <question>
+    <q>Which robot was the star in the movie Wall-E?</q>
+    <a>Wall-E</a>
+  </question>
+  <question>
+    <q>Where does the term computer bug come from?</q>
+    <a>From a moth trapped in a relay</a>
+  </question>
+  <question>
+    <q>What is the name of the round robot in the new Star Wars movie?</q>
+    <a>BB-8</a>
+  </question>
+  <question>
+    <q>How many curry sausages are eaten in Germany each year?</q>
+    <a>About 800 million currywurst every year</a>
+  </question>
+  <question>
+    <q>Who is president of the galaxy in The Hitchhiker's Guide to the Galaxy?</q>
+    <a>Zaphod Beeblebrox</a>
+  </question>
+  <question>
+    <q>Which robot is the love interest in Wall-E?</q>
+    <a>EVE</a>
+  </question>
+  <question>
+    <q>Which company makes ASIMO?</q>
+    <a>Honda</a>
+  </question>
+  <question>
+    <q>What company makes Big Dog?</q>
+    <a>Boston Dynamics</a>
+  </question>
+  <question>
+    <q>What is the funny clumsy character of the Star Wars prequals?</q>
+    <a>Jar-Jar Binks</a>
+  </question>
+  <question>
+    <q>How many people live in the Germany?</q>
+    <a>A little over 80 million</a>
+  </question>
+  <question>
+    <q>What are the colours of the German flag?</q>
+    <a>Black red and yellow</a>
+  </question>
+  <question>
+    <q>What city is the capital of the Germany?</q>
+    <a>Berlin</a>
+  </question>
+  <question>
+    <q>How many arms do you have?</q>
+    <a>...</a>
+  </question>
+  <question>
+    <q>What is the heaviest element?</q>
+    <a>Plutonium when measured by the mass of the element but Osmium is densest</a>
+  </question>
+  <question>
+    <q>What did Alan Turing create?</q>
+    <a>Many things like Turing machines and the Turing test</a>
+  </question>
+  <question>
+    <q>Who is the helicopter pilot in the A-Team?</q>
+    <a>Captain Howling Mad Murdock</a>
+  </question>
+  <question>
+    <q>What Apollo was the last to land on the moon?</q>
+    <a>Apollo 17</a>
+  </question>
+  <question>
+    <q>Who was the last man to step on the moon?</q>
+    <a>Gene Cernan</a>
+  </question>
+  <question>
+    <q>In which county is the play of Hamlet set?</q>
+    <a>Denmark</a>
+  </question>
+  <question>
+    <q>What are names of Donald Duck's nephews?</q>
+    <a>Huey Dewey and Louie Duck</a>
+  </question>
+  <question>
+    <q>How many metres are in a mile?</q>
+    <a>About 1609 metres</a>
+  </question>
+  <question>
+    <q>Name a dragon in The Lord of the Rings?</q>
+    <a>Smaug</a>
+  </question>
+  <question>
+    <q>Who is the Chancellor of Germany?</q>
+    <a>Angela Merkel</a>
+  </question>
+  <question>
+    <q>Who developed the first industrial robot?</q>
+    <a>The American physicist Joseph Engelberg. He is also considered the father of robotics.</a>
+  </question>
+  <question>
+    <q>What's the difference between a cyborg and an android?</q>
+    <a>Cyborgs are biological being with electromechanical enhancements. Androids are human-shaped robots.</a>
+  </question>
+  <question>
+    <q>Do you know any cyborg?</q>
+    <a>Professor Kevin Warwick. He implanted a chip in in his left arm to remotely operate doors an artificial hand and an electronic wheelchair.</a>
+  </question>
+  <question>
+    <q>In which city is this year's RoboCup hosted?</q>
+    <a>In Leipzig Germany.</a>
+  </question>
+  <question>
+    <q>Which city hosted last year's RoboCup?</q>
+    <a>In Hefei China.</a>
+  </question>
+  <question>
+    <q>In which city will next year's RoboCup be hosted?</q>
+    <a>It hasn't been announced yet.</a>
+  </question>
+  <question>
+    <q>Name the main rivers surrounding Leipzig</q>
+    <a>The Parthe Pleisse and the White Elster.</a>
+  </question>
+  <question>
+    <q>What is the Cospudener See?</q>
+    <a>The Cospudener See is a lake situated south of Leipzig on the site of a former open cast mine.</a>
+  </question>
+  <question>
+    <q>Where started the peaceful revolution of 1989?</q>
+    <a>The peaceful revolution started in September 4 1989 in Leipzig at the St. Nicholas Church.</a>
+  </question>
+  <question>
+    <q>Where is the world's oldest trade fair hosted?</q>
+    <a>The world's oldest trade fair is in Leipzig.</a>
+  </question>
+  <question>
+    <q>Where is one of the world's largest dark music festivals hosted?</q>
+    <a>Leipzig hosts one of the world's largest dark music festivals.</a>
+  </question>
+  <question>
+    <q>Where is Europe's oldest continuous coffee shop hosted?</q>
+    <a>Europe's oldest continuous coffee shop is in Leipzig.</a>
+  </question>
+  <question>
+    <q>Name one of the greatest German composers</q>
+    <a>Johann Sebastian Bach.</a>
+  </question>
+  <question>
+    <q>Where is Johann Sebastian Bach buried?</q>
+    <a>Johann Sebastian Bach is buried in St. Thomas' Church here in Leipzig.</a>
+  </question>
+  <question>
+    <q>Do you have dreams?</q>
+    <a>I dream of Electric Sheeps.</a>
+  </question>
+  <question>
+    <q>Hey what's up?</q>
+    <a>I don't know since I've never been there.</a>
+  </question>
+  <question>
+    <q>There are seven days in a week. True or false?</q>
+    <a>True there are seven days in a week.</a>
+  </question>
+  <question>
+    <q>There are eleven days in a week. True or false?</q>
+    <a>False there are seven days in a week not eleven.</a>
+  </question>
+  <question>
+    <q>January has 31 days. True or false?</q>
+    <a>True January has 31 days.</a>
+  </question>
+  <question>
+    <q>January has 28 days. True or false?</q>
+    <a>False January has 31 days not 28.</a>
+  </question>
+  <question>
+    <q>February has 28 days. True or false?</q>
+    <a>True but in leap-years has 29.</a>
+  </question>
+  <question>
+    <q>February has 31 days. True or false?</q>
+    <a>False February has either 28 or 29 days. Depend on the year.</a>
+  </question>
+  <question>
+    <q>Do you have dreams?</q>
+    <a>I dream of Electric Sheep.</a>
+  </question>
+  <question>
+    <q>Who used first the word Robot?</q>
+    <a>The word robot was first used by Czech writer Karel Capek.</a>
+  </question>
+  <question>
+    <q>What origin has the word Robot?</q>
+    <a>The Czech word robota that means forced work or labour</a>
+  </question>
+</questions>
