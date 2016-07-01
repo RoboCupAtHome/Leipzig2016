@@ -101,7 +101,7 @@ $Main     = $advman
 
 $advman   = $polite bring me something for breakfast; Up to the team to solve
 $advman   = $polite serve the breakfast; Up to the team how to solve
-$advman   = $polite bring me some $cereal, $fruit and $drink in a tray
+$advman   = $polite bring me some $cereal, $fuit and $drink in a tray
 
 
 ##############################################################################
@@ -175,16 +175,16 @@ $polite = Could you please
 # Breakfast elements
 #
 ##############################################################################
-$cereal	= oat | cereal | (choco flakes) | muesli
-$fruit	= banana | orange | apple
-$drink	= milk | (hot chocolate) | orange juice | coffee
+$cereal	= pretzels | pringles | chips
+$fruit	= apple | paprika
+$drink	= beer | (coconut milk) | coke
 
 ##############################################################################
 #
 # Hard to manipulate objects
 #
 ##############################################################################
-$object = phone | book | pencil | egg | salt | hair brush
+$object = egg | baby sweets | (choco syrup) | cloth
 
 ##############################################################################
 #

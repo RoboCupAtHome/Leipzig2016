@@ -28,4 +28,9 @@
     <object name="cloth" type="alike" difficulty="high" />
     <object name="spponge" difficulty="high" />
   </category>
+  <category name="containers" defaultLocation="sink" room="kitchen">
+    <object name="bowl" difficulty="high" />
+    <object name="tray" difficulty="high" />
+    <object name="plate" difficulty="high" />
+  </category>
 </categories>
