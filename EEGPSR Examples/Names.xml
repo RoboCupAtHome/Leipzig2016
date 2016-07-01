@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<names>
+  <name>Emma</name>
+  <name>Taylor</name>
+  <name>Sophia</name>
+  <name>Isabella</name>
+  <name>Ava</name>
+  <name>Robin</name>
+  <name>Emily</name>
+  <name>Angel</name>
+  <name>Madison</name>
+  <name>Charlotte</name>
+  <name gender="Male">Noah</name>
+  <name gender="Male">Liam</name>
+  <name gender="Male">Mason</name>
+  <name gender="Male">Jacob</name>
+  <name gender="Male">William</name>
+  <name gender="Male">Ethan</name>
+  <name gender="Male">Michael</name>
+  <name gender="Male">Alexander</name>
+  <name gender="Male">James</name>
+  <name gender="Male">Daniel</name>
+</names>

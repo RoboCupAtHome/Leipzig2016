@@ -1,0 +1,228 @@
+##############################################################################
+#
+# Eegpsr_cat6 Grammar
+# 
+# Author:  Mauricio Matamoros
+# Date:    June 2016
+#
+# IMPORTANT: 
+# Since this document declares a grammar for generating sentences,
+# NO RECURSIVE rules must be used.
+# 
+##############################################################################
+
+/*****************************************************************************
+*
+* FORMAT
+*
+******************************************************************************
+*
+* ROOT
+* The root rule S of the grammar is the $Main Non-Terminal. In order for the
+* grammar to be valid, it must contain at least one $Main rule.
+*
+* Non-Terminal identifiers
+* A valid Non-Terminal identifier is a sequence of one or more letters,
+* digits, or underscore characters (_). Spaces, punctuation marks, and symbols
+* cannot be part of a Non-Terminal identifier.
+*
+* Wildcards
+* Wilcards are strings within braces which are used during random sentence
+* generation, replacing them by random values. The same random value may be
+* specified for a set of wildcards by specifying an ID. Also, the type may
+* be optionally specified. Syntax is as follows:
+*
+*	{wildcard [type] [id] [meta:[metadata]]}
+*
+* When the "meta:" literal string is found within a wildcard, all text
+* following it is addressed as metadata. While etadata is not part of the 
+* generated sentence, it can be used to display additional information.
+*
+* The following wildcards are defined:
+*	{category}	An object category.
+*				Types are ignored.
+*	{gesture}	A gesture name.
+*				Types are ignored.
+*	{location}	Any location.
+*				Types may be [room|placement|beacon]
+*	{name}		A person name.
+*				Types may be [male|female]
+*	{object}	An object name.
+*				Types may be [known|alike]
+*	{question}	The "question" literal string.
+*				Types are ignored. Metadata contains a question/answer
+*				from the predefined questions set.
+*	{void}		Void construct used to inject metadata.
+*
+*				Types are ignored.
+* Also, the following alias are defined
+*	{beacon}	Alias for {location beacon}
+*	{aobject}	Alias for {object alike}
+*	{female}	Alias for {name female}
+*	{kobject}	Alias for {object known}
+*	{male}		Alias for {name male}
+* 	{placement}	Alias for {location placement}
+*	{room}		Alias for {location room}
+*
+* Obfuscating information 
+* A wildcard ended with a question mark will be replaced by an obfuscated
+* value instead of the random value choosen by that wildcard, which will
+* be included as metadata.
+* The obfuscation is performed as follows (wildcards not shown can not
+* be obfuscated):
+*	{category}	The "objects" literal string
+*	{location}	The "room" literal string for rooms, for placements and
+*				beacons, the room to which the location belongs.
+*	{object}	The category to which the object belongs.
+*
+* Comments
+* C/C++/Java comments are permitted.
+* In addition, any words, spaces, or marks after # or % or ; will be ignored
+*
+* Defining grammar name and tier
+* The grammar name and tier may be set as a comment with the lines:
+* ; grammar name MyGrammar
+* ; grammar tier High
+* Accepted values for the tier are Easy, Moderate, and High
+*
+*
+*****************************************************************************/
+
+; grammar name Cat6 - Simple Tasks
+; grammar tier Moderate
+
+$Main     = $polite $complex.
+
+
+##############################################################################
+#
+# Complex commands
+#
+##############################################################################
+$complex  = $triple
+$complex  = $single, $single, and $single
+$complex  = $doublel, and $single
+$complex  = $single, $doubler
+
+##############################################################################
+#
+# Triple task commands
+#
+##############################################################################
+$triple   = $findor, and ($place | $deliver)
+$triple   = $findmp, and $guidem
+$triple   = $findfp, and $guidef
+$triple   = $vbtake the knife from the {placement} $vbfind {female} and kill her
+
+##############################################################################
+#
+# Double task commands
+#
+##############################################################################
+; go get it
+$doubler  = $take, and ($place | $deliver)
+$doublel  = $take, ($place | $deliver)
+
+; move object to target
+$doublel  = $vbplace {object} on the {placement}
+
+; find and follow
+$doubler  = $findmpr, and $followm
+$doubler  = $findfpr, and $followf
+$doublel  = $findmpr, $followm
+$doublel  = $findfpr, $followf
+
+; find and guide
+$doubler  = $findmp, and $guidem
+$doubler  = $findfp, and $guidef
+$doublel  = $findmp, $guidem
+$doublel  = $findfp, $guidef
+
+##############################################################################
+#
+# Single task commands
+#
+##############################################################################
+$single   = $vbspeak $whattosay
+$single   = $findfp | $findmp
+$single   = $take
+$single   = answer a {question}
+$single   = join the dark side
+
+##############################################################################
+#
+# Tasks
+#
+##############################################################################
+; Find object in room
+$findor   = $vbgor to the {room}, $vbfind the {object}
+$findor   = $vbfind a {object} in the {room}
+
+; Take an object
+$take     = $vbtake the {aobject} from the {placement}
+
+; Place an object
+$place    = $vbplace it on the {placement}
+
+; Deliver an object
+$deliver  = $vbdeliver it to (me | {name} in the {beacon})
+
+; Find people in location
+$findmp   = $vbgopl to the {beacon}, $vbfind {male}
+$findmp   = $vbfind {male} in the {beacon}
+$findfp   = $vbgopl to the {beacon}, $vbfind {female}
+$findfp   = $vbfind {female} in the {beacon}
+
+; Find people in room
+$findmpr  = $vbgor to the {room}, $vbfind {male}
+$findmpr  = $vbfind {male} in the {room}
+$findfpr  = $vbgor to the {room}, $vbfind {female}
+$findfpr  = $vbfind {female} in the {room}
+
+; Follow people
+$followm  = $vbfollow him
+$followf  = $vbfollow her
+
+; Guide people
+$guidem   = $vbguide him to the ( {room} | {beacon} | exit )
+$guidef   = $vbguide her to the ( {room} | {beacon} | exit )
+
+
+##############################################################################
+#
+# What to say
+#
+##############################################################################
+$whattosay = something about yourself
+$whattosay = the time
+$whattosay = what day is (today | tomorrow)
+$whattosay = your team's (name | country | affiliation)
+$whattosay = the day of the (week | month)
+$whattosay = a joke
+
+##############################################################################
+#
+# Verbs
+#
+##############################################################################
+$vbtake   = get | grasp | take | pick up
+$vbplace  = deliver | put | place
+$vbspeak  = tell | say
+$vbgopl   = go | navigate
+$vbgor    = $vbgopl | enter
+$vbfind   = find | locate | look for
+$vbguide  = guide | escort | take
+$vbfollow = follow
+$vbdeliver = bring | deliver | give | hand
+
+##############################################################################
+#
+# Polite
+#
+##############################################################################
+$polite   = {void} | Please
+$polite   = Could you
+$polite   = Robot please
+$polite   = Could you please
+
+

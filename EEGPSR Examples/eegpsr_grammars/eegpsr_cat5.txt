@@ -1,0 +1,220 @@
+##############################################################################
+#
+# Eegpsr_cat5 Grammar
+# 
+# Author:  Mauricio Matamoros
+# Date:    June 2016
+#
+# IMPORTANT: 
+# Since this document declares a grammar for generating sentences,
+# NO RECURSIVE rules must be used.
+# 
+##############################################################################
+
+/*****************************************************************************
+*
+* FORMAT
+*
+******************************************************************************
+*
+* ROOT
+* The root rule S of the grammar is the $Main Non-Terminal. In order for the
+* grammar to be valid, it must contain at least one $Main rule.
+*
+* Non-Terminal identifiers
+* A valid Non-Terminal identifier is a sequence of one or more letters,
+* digits, or underscore characters (_). Spaces, punctuation marks, and symbols
+* cannot be part of a Non-Terminal identifier.
+*
+* Wildcards
+* Wilcards are strings within braces which are used during random sentence
+* generation, replacing them by random values. The same random value may be
+* specified for a set of wildcards by specifying an ID. Also, the type may
+* be optionally specified. Syntax is as follows:
+*
+*	{wildcard [type] [id] [meta:[metadata]]}
+*
+* When the "meta:" literal string is found within a wildcard, all text
+* following it is addressed as metadata. While etadata is not part of the 
+* generated sentence, it can be used to display additional information.
+*
+* The following wildcards are defined:
+*	{category}	An object category.
+*				Types are ignored.
+*	{gesture}	A gesture name.
+*				Types are ignored.
+*	{location}	Any location.
+*				Types may be [room|placement|beacon]
+*	{name}		A person name.
+*				Types may be [male|female]
+*	{object}	An object name.
+*				Types may be [known|alike]
+*	{question}	The "question" literal string.
+*				Types are ignored. Metadata contains a question/answer
+*				from the predefined questions set.
+*	{void}		Void construct used to inject metadata.
+*
+*				Types are ignored.
+* Also, the following alias are defined
+*	{beacon}	Alias for {location beacon}
+*	{aobject}	Alias for {object alike}
+*	{female}	Alias for {name female}
+*	{kobject}	Alias for {object known}
+*	{male}		Alias for {name male}
+* 	{placement}	Alias for {location placement}
+*	{room}		Alias for {location room}
+*
+* Obfuscating information 
+* A wildcard ended with a question mark will be replaced by an obfuscated
+* value instead of the random value choosen by that wildcard, which will
+* be included as metadata.
+* The obfuscation is performed as follows (wildcards not shown can not
+* be obfuscated):
+*	{category}	The "objects" literal string
+*	{location}	The "room" literal string for rooms, for placements and
+*				beacons, the room to which the location belongs.
+*	{object}	The category to which the object belongs.
+*
+* Comments
+* C/C++/Java comments are permitted.
+* In addition, any words, spaces, or marks after # or % or ; will be ignored
+*
+* Defining grammar name and tier
+* The grammar name and tier may be set as a comment with the lines:
+* ; grammar name MyGrammar
+* ; grammar tier High
+* Accepted values for the tier are Easy, Moderate, and High
+*
+*
+*****************************************************************************/
+
+; grammar name Cat5 - People Recognition and Navigation
+; grammar tier High
+ 
+$Main = $advprn
+
+##############################################################################
+#
+# Greet person matching description
+#
+##############################################################################
+$advprn	= $polite greet the $gwho
+$advprn	= $polite kill the $gwho
+
+$gwho	= $person in the $room
+
+##############################################################################
+#
+# Bring to person matching description
+#
+##############################################################################
+$advprn	= $polite bring a $bwhat to the $bwho
+
+$bwhat  = {kobject}
+$bwhat  = {category meta:{kobject} placed at {placement}}
+$bwho	= $person in the $room
+
+##############################################################################
+#
+# Meet and greet person
+#
+##############################################################################
+$advprn	= $mgreet {void meta:There is only one person at {beacon 1}}
+
+$mgreet = Meet {male} at the {beacon 1}, then (greet | find) him in the $room
+$mgreet	= Meet {female} at the {beacon 1}, then (greet | find) her in the $room
+
+
+##############################################################################
+#
+# Count
+#
+##############################################################################
+$advprn	= $polite tell me how many $people are in the $room.
+$advprn	= offer something to (eat | drink) to all the $people in the $room
+
+
+##############################################################################
+#
+# Follow & guide
+#
+##############################################################################
+$advprn	= $polite find the $fgwho and follow them
+$advprn	= $polite find the $fgwho and guide them to the (exit | {room 2})
+$fgwho	= $person in the $room
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##############################################################################
+#
+# People
+#
+##############################################################################
+$people = $ppl
+$people = $posture $ppl
+$people = {gesture} $ppl
+$people = $ppl wearing $outfit
+$people = $color-dressed $ppl
+
+$posture= standing | sitting | lying
+$ppl    = people | children | elders | men | women
+
+##############################################################################
+#
+# Person
+#
+##############################################################################
+$person = child
+$person = $lpdesc (man | woman | person)
+$person = (man | woman | person) $rpdesc
+$lpdesc = {gesture} | tallest | smallest | oldest | youngest | slimmest | fattest
+$rpdesc = dressed with $color $outfit
+$rpdesc = wearing ($apparel | $color $outfit) 
+
+$color	= blue | yellow | black | white | red | orange | gray
+$outfit = (T-shirt) | shirt | blouse | shoes | sweater | pants | coat | jacket
+$apparel = hat | glasses | necklace | tie | earrings
+
+
+##############################################################################
+#
+# Room
+#
+##############################################################################
+$room   = {room 1 meta:At least three people must be in the {room 1}}
+
+##############################################################################
+#
+# Polite
+#
+##############################################################################
+$polite = {void} | Please
+$polite = Could you
+$polite = Robot please
+$polite = Could you please
+
+
+
+
+
+
+
