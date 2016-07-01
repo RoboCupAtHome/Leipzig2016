@@ -2,6 +2,9 @@
 Data for RoboCup@Home world championship in Leipzig, 2016
 
 # Announcements:
+GPSR Command generator
+----------------------
+[https://github.com/kyordhel/GPSRCmdGen](https://github.com/kyordhel/GPSRCmdGen)
 
 WiFi & MAC adresses
 -------------------
