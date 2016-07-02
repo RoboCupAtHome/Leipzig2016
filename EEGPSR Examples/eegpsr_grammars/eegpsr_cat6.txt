@@ -30,7 +30,7 @@
 * Wilcards are strings within braces which are used during random sentence
 * generation, replacing them by random values. The same random value may be
 * specified for a set of wildcards by specifying an ID. Also, the type may
-* be optionally specified. Syntax is as follows:
+* be optionally specified. Synax is as follows:
 *
 *	{wildcard [type] [id] [meta:[metadata]]}
 *
@@ -112,7 +112,6 @@ $complex  = $single, $doubler
 $triple   = $findor, and ($place | $deliver)
 $triple   = $findmp, and $guidem
 $triple   = $findfp, and $guidef
-$triple   = $vbtake the knife from the {placement} $vbfind {female} and kill her
 
 ##############################################################################
 #
@@ -147,7 +146,6 @@ $single   = $vbspeak $whattosay
 $single   = $findfp | $findmp
 $single   = $take
 $single   = answer a {question}
-$single   = join the dark side
 
 ##############################################################################
 #
