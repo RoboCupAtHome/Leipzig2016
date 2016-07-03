@@ -1,0 +1,926 @@
+﻿Attempt 1:
+Go to the kitchen, grasp the apple and bring it to calling person in the bedroom
+Navigate to the bedroom, pick the choco syrup and bring it to calling person in the livingroom
+Move to the office, grab the chips and bring it to calling person in the livingroom
+Drive to the kitchen, fetch the paprika and bring it to calling person in the bedroom
+Go to the bedroom, take the bisquits and bring it to calling person in the office
+Navigate to the office, pick the pretzels and bring it to calling person in the bedroom
+Move to the kitchen, grab the pumper_nickel and bring it to calling person in the bedroom
+Drive to the bedroom, fetch the baby sweets and bring it to calling person in the living room
+Go to the office, take the pringles and bring it to calling person in the living room
+Navigate to the kitchen, pick the apple and bring it to calling person in the office
+Move to the bedroom, grab the egg and bring it to calling person in the living room
+Drive to the office, fetch the chips and bring it to calling person in the living room
+Go to the kitchen, take the paprika and bring it to calling person in the office
+Navigate to the bedroom, grasp the egg and bring it to calling person in the living room
+Drive to the office, pick the pretzels and bring it to calling person in the kitchen
+
+Attempt 2:
+Go to the Drawer, find a person and follow him
+Go to the Desk, find a person and follow him
+Go to the Bed, find a person and follow him
+Go to the Bedside, find a person and follow him
+Go to the Bar, find a person and follow him
+Go to the Cupboard, find a person and follow him
+Go to the Sink, find a person and follow him
+Go to the Sideshelf, find a person and follow him
+Go to the Bookcase, find a person and follow him
+Go to the Dining Table, find a person and follow him
+Go to the TV stand, find a person and follow him
+Go to the Living shelf, find a person and follow him
+Go to the Living Table, find a person and follow him
+Go to the Cabinet, find a person and follow him
+Go to the Drawer, find a person and follow him
+
+Attempt 3:
+Go to the kitchen, grasp the apple and bring it to calling person in the bedroom
+Navigate to the bedroom, pick the choco syrup and bring it to calling person in the livingroom
+Move to the office, grab the chips and bring it to calling person in the livingroom
+Drive to the kitchen, fetch the paprika and bring it to calling person in the bedroom
+Go to the bedroom, take the bisquits and bring it to calling person in the office
+Navigate to the office, pick the pretzels and bring it to calling person in the bedroom
+Move to the kitchen, grab the pumper_nickel and bring it to calling person in the bedroom
+Drive to the bedroom, fetch the baby sweets and bring it to calling person in the living room
+Go to the office, take the pringles and bring it to calling person in the living room
+Navigate to the kitchen, pick the apple and bring it to calling person in the office
+Move to the bedroom, grab the egg and bring it to calling person in the living room
+Go to the bedroom, take the bisquits and bring it to calling person in the office
+Navigate to the office, pick the pretzels and bring it to calling person in the bedroom
+Move to the kitchen, grab the pumper_nickel and bring it to calling person in the bedroom
+Drive to the bedroom, fetch the baby sweets and bring it to calling person in the living room
+Go to the office, take the pringles and bring it to calling person in the living room
+
+
+
+
+###############################################################################
+#
+# Example 1
+#
+###############################################################################
+
+Could you please find Ethan near the desk, and take him to the kitchen.
+
+
+###############################################################################
+#
+# Example 2
+#
+###############################################################################
+
+Please look for a shampoo in the dining room, go to the desk, and take Emma from the bed to the living room.
+
+
+###############################################################################
+#
+# Example 3
+#
+###############################################################################
+
+Locate the waving person in the corridor, escort him to the exit, and tell a joke.
+
+
+###############################################################################
+#
+# Example 4
+#
+###############################################################################
+
+Please locate Alexander in the corridor, follow him, and grasp the choco syrup from the living shelf.
+
+
+###############################################################################
+#
+# Example 5
+#
+###############################################################################
+
+Could you please navigate to the bookcase, find Mason near the sink, and locate Jacob in the dining room.
+
+
+###############################################################################
+#
+# Example 6
+#
+###############################################################################
+
+Robot please locate Noah in the living table, and escort him to the cabinet.
+
+
+###############################################################################
+#
+# Example 7
+#
+###############################################################################
+
+Robot please look for a coconut milk in the living room, hand it to me, and find a choco syrup in the bedroom.
+
+
+###############################################################################
+#
+# Example 10
+#
+###############################################################################
+
+Could you get the shampoo from the sideshelf, bring it to Madison in the bed, and answer a question.
+
+question
+	Q: What city is the capital of the Germany?
+	A: Berlin
+
+###############################################################################
+#
+# Example 11
+#
+###############################################################################
+
+Find a beer in the office, find Michael in the dining table, and take him to the cabinet.
+
+
+###############################################################################
+#
+# Example 12
+#
+###############################################################################
+
+Could you please look for Isabella in the bedroom, answer a question, and grasp the chips from the TV stand.
+
+question
+	Q: There are eleven days in a week. True or false?
+	A: False there are seven days in a week not eleven.
+
+
+###############################################################################
+#
+# Example 14
+#
+###############################################################################
+
+Could you locate Emily in the living table, take her to the dining room, and deliver a shampoo on the cupboard.
+
+
+###############################################################################
+#
+# Example 17
+#
+###############################################################################
+
+Could you pick up the pringles from the living table, hand it to Emma in the sink, and follow her.
+
+
+###############################################################################
+#
+# Example 19
+#
+###############################################################################
+
+Could you follow Liam who is at the bed, grasp the tea from the cupboard, and navigate to the sideshelf.
+
+
+###############################################################################
+#
+# Example 20
+#
+###############################################################################
+
+Could you please say something about yourself, navigate to the sideshelf, and take the bisquits from the bar.
+
+
+###############################################################################
+#
+# Example 21
+#
+###############################################################################
+
+Please navigate to the drawer, find Liam in the bed, and answer a question.
+
+question
+	Q: What Apollo was the last to land on the moon?
+	A: Apollo 17
+
+###############################################################################
+#
+# Example 22
+#
+###############################################################################
+
+Locate Ethan in the corridor, answer a question, and find a bisquits in the office.
+
+question
+	Q: What origin has the word Robot?
+	A: The Czech word robota that means forced work or labour
+
+###############################################################################
+#
+# Example 23
+#
+###############################################################################
+
+Follow Charlotte who is at the cabinet, find a beer in the office, and hand it to Ava in the TV stand.
+
+
+###############################################################################
+#
+# Example 24
+#
+###############################################################################
+
+Robot please grasp the shampoo from the TV stand, find the rising right arm person in the kitchen, and escort him to the dining room.
+
+
+###############################################################################
+#
+# Example 25
+#
+###############################################################################
+
+Robot please find Isabella in the sink, and escort her to the cabinet.
+
+
+###############################################################################
+#
+# Example 26
+#
+###############################################################################
+
+Could you please take the bisquits from the sink, bring it to Liam in the bed, and follow him.
+
+
+###############################################################################
+#
+# Example 27
+#
+###############################################################################
+
+Could you locate Emily in the desk, look for the rising left arm person in the office, and follow him.
+
+
+###############################################################################
+#
+# Example 28
+#
+###############################################################################
+
+Robot please find Michael in the living table, and guide him to the Kitchen.
+
+
+###############################################################################
+#
+# Example 29
+#
+###############################################################################
+
+Could you please pick up the tea from the bar, locate a apple in the Kitchen, and deliver it to Jacob in the dining table.
+
+
+###############################################################################
+#
+# Example 30
+#
+###############################################################################
+
+Please locate Ava in the sink, and take her to the cabinet.
+
+
+###############################################################################
+#
+# Example 31
+#
+###############################################################################
+
+Could you please find Emma in the desk, look for Ethan in the office, and follow him.
+
+
+###############################################################################
+#
+# Example 32
+#
+###############################################################################
+
+Navigate to the bar, look for the rising right arm person in the office, and follow him.
+
+
+###############################################################################
+#
+# Example 33
+#
+###############################################################################
+
+Could you find Alexander in the kitchen, look for Madison in the living room, and follow her.
+
+
+###############################################################################
+#
+# Example 34
+#
+###############################################################################
+
+Find Madison in the sink, find Alexander in the kitchen, and follow him.
+
+
+###############################################################################
+#
+# Example 35
+#
+###############################################################################
+
+Could you please put a baby sweets on the sideshelf, locate a pretzels in the corridor, and put it on the sink.
+
+
+###############################################################################
+#
+# Example 36
+#
+###############################################################################
+
+Locate a choco syrup in the kitchen, follow Sophia who is at the cabinet, and put a shampoo on the bookcase.
+
+
+###############################################################################
+#
+# Example 37
+#
+###############################################################################
+
+Could you follow Ava who is at the cabinet, look for a pumper nickel in the corridor, and deliver it on the bookcase.
+
+
+###############################################################################
+#
+# Example 38
+#
+###############################################################################
+
+Robot please take the beer from the dining table, hand it to James in the bed, and guide him to the exit.
+
+
+###############################################################################
+#
+# Example 39
+#
+###############################################################################
+
+Locate Alexander in the corridor, follow him, and locate Emma in the bedroom.
+
+
+###############################################################################
+#
+# Example 40
+#
+###############################################################################
+
+Robot please locate Angel in the sink, escort her to the exit, and follow Emily who is at the dining table.
+
+
+###############################################################################
+#
+# Example 41
+#
+###############################################################################
+
+Please pick up the beer from the drawer, hand it to Robin in the dining table, and follow her.
+
+
+###############################################################################
+#
+# Example 42
+#
+###############################################################################
+
+Robot please locate a chips in the office, and put it on the TV stand.
+
+
+###############################################################################
+#
+# Example 43
+#
+###############################################################################
+
+Robot please locate a pringles in the living room, deliver it on the TV stand, and follow Angel who is at the sink.
+
+
+###############################################################################
+#
+# Example 44
+#
+###############################################################################
+
+Please locate Ava in the TV stand, look for Liam in the living table, and escort him to the sink.
+
+
+###############################################################################
+#
+# Example 45
+#
+###############################################################################
+
+Robot please tell your team's affiliation, locate Mason in the TV stand, and guide Ava from the TV stand to the kitchen.
+
+
+###############################################################################
+#
+# Example 46
+#
+###############################################################################
+
+Could you find Robin in the dining room, navigate to the bar, and tell the time.
+
+
+###############################################################################
+#
+# Example 47
+#
+###############################################################################
+
+Could you please look for Isabella in the office, locate Robin in the dining room, and guide Liam from the TV stand to the kitchen.
+
+
+###############################################################################
+#
+# Example 48
+#
+###############################################################################
+
+Please grasp the choco syrup from the cabinet, deliver it to James in the desk, and answer a question.
+
+question
+	Q: January has 28 days. True or false?
+	A: False January has 31 days not 28.
+
+###############################################################################
+#
+# Example 49
+#
+###############################################################################
+
+Could you please escort James from the cabinet to the desk, take Alexander from the TV stand to the exit, and pick up the chips from the drawer.
+
+
+###############################################################################
+#
+# Example 50
+#
+###############################################################################
+
+Pick up the coconut milk from the cabinet, deliver it to Madison in the desk, and escort her to the sink.
+
+
+###############################################################################
+#
+# Example 51
+#
+###############################################################################
+
+Could you please place a coke on the sink, locate the rising right arm person in the office, and follow him.
+
+
+###############################################################################
+#
+# Example 52
+#
+###############################################################################
+
+Locate Ethan in the kitchen, follow him, and deliver a pretzels on the bar.
+
+
+###############################################################################
+#
+# Example 53
+#
+###############################################################################
+
+Could you please find Alexander in the desk, find Jacob in the dining table, and guide him to the corridor.
+
+
+###############################################################################
+#
+# Example 54
+#
+###############################################################################
+
+Robot please get the bisquits from the sideshelf, hand it to Ava in the bed, and escort her to the exit.
+
+
+###############################################################################
+#
+# Example 55
+#
+###############################################################################
+
+Please find the pointing left person in the Kitchen, follow him, and escort Charlotte from the dining table to the exit.
+
+
+###############################################################################
+#
+# Example 56
+#
+###############################################################################
+
+Robot please follow Isabella who is at the desk, look for James in the TV stand, and escort him to the TV stand.
+
+
+###############################################################################
+#
+# Example 57
+#
+###############################################################################
+
+Please guide Isabella from the desk to the living table, find the rising right arm person in the kitchen, and take him to the living room.
+
+
+###############################################################################
+#
+# Example 58
+#
+###############################################################################
+
+Please take the paprika from the bedside, hand it to Madison in the bed, and follow her.
+
+
+###############################################################################
+#
+# Example 59
+#
+###############################################################################
+
+Please follow Angel who is at the living table, pick up the coconut milk from the bedside, and get the chips from the bedside.
+
+
+###############################################################################
+#
+# Example 60
+#
+###############################################################################
+
+Could you please locate Angel in the dining room, look for James in the cabinet, and escort him to the dining table.
+
+
+###############################################################################
+#
+# Example 61
+#
+###############################################################################
+
+Please find Ethan in the corridor, find Charlotte in the cabinet, and say a joke.
+
+
+###############################################################################
+#
+# Example 62
+#
+###############################################################################
+
+Robot please get the choco syrup from the drawer, take the pringles from the bookcase, and guide Ava from the TV stand to the bed.
+
+
+###############################################################################
+#
+# Example 63
+#
+###############################################################################
+
+Could you tell a joke, locate a baby sweets in the Kitchen, and guide Taylor from the living table to the exit.
+
+
+###############################################################################
+#
+# Example 64
+#
+###############################################################################
+
+Find the pointing right person in the dining room, guide him to the bedroom, and find Charlotte in the bed.
+
+
+###############################################################################
+#
+# Example 65
+#
+###############################################################################
+
+Please escort Angel from the dining table to the sink, find the pointing left person in the corridor, and guide him to the TV stand.
+
+
+###############################################################################
+#
+# Example 66
+#
+###############################################################################
+
+Robot please go to the cupboard, go to the living table, and tell something about yourself.
+
+
+###############################################################################
+#
+# Example 67
+#
+###############################################################################
+
+Could you look for Charlotte in the dining table, take her to the exit, and escort Alexander from the bed to the exit.
+
+
+###############################################################################
+#
+# Example 68
+#
+###############################################################################
+
+Robot please look for the pointing left person in the kitchen, take him to the exit, and take Charlotte from the sink to the exit.
+
+
+###############################################################################
+#
+# Example 69
+#
+###############################################################################
+
+Could you please deliver a soap on the drawer, find a pumper nickel in the dining room, and say what day is today.
+
+
+###############################################################################
+#
+# Example 70
+#
+###############################################################################
+
+Could you take the apple from the bookcase, hand it to Daniel in the cabinet, and locate James in the corridor.
+
+
+###############################################################################
+#
+# Example 71
+#
+###############################################################################
+
+Look for Michael in the TV stand, escort him to the office, and take Jacob from the TV stand to the Kitchen.
+
+
+###############################################################################
+#
+# Example 72
+#
+###############################################################################
+
+Deliver a coke on the sideshelf, say your team's affiliation, and follow Madison who is at the desk.
+
+
+###############################################################################
+#
+# Example 73
+#
+###############################################################################
+
+Locate the rising right arm person in the office, take him to the exit, and look for a coconut milk in the dining room.
+
+
+###############################################################################
+#
+# Example 74
+#
+###############################################################################
+
+Could you please follow James who is at the cabinet, look for a paprika in the dining room, and put it on the bedside.
+
+
+###############################################################################
+#
+# Example 75
+#
+###############################################################################
+
+Robot please follow Isabella who is at the TV stand, pick up the pumper nickel from the bookcase, and deliver it to Angel in the living table.
+
+
+###############################################################################
+#
+# Example 76
+#
+###############################################################################
+
+Could you please place a soap on the living table, find William in the bedroom, and answer a question.
+
+question
+	Q: Hey what's up?
+	A: I don't know since I've never been there.
+
+###############################################################################
+#
+# Example 77
+#
+###############################################################################
+
+Navigate to the bookcase, take Michael from the cabinet to the exit, and take James from the TV stand to the exit.
+
+
+###############################################################################
+#
+# Example 78
+#
+###############################################################################
+
+Could you please take the baby sweets from the dining table, bring it to Noah in the dining table, and answer a question.
+
+question
+	Q: What city is the capital of the Germany?
+	A: Berlin
+
+###############################################################################
+#
+# Example 79
+#
+###############################################################################
+
+Please navigate to the bar, look for Madison in the living table, and guide her to the dining table.
+
+
+###############################################################################
+#
+# Example 80
+#
+###############################################################################
+
+Could you find the rising right arm person in the kitchen, guide him to the cabinet, and place a pumper nickel on the living shelf.
+
+
+###############################################################################
+#
+# Example 81
+#
+###############################################################################
+
+Could you locate Michael in the bed, and guide him to the living room.
+
+
+###############################################################################
+#
+# Example 82
+#
+###############################################################################
+
+Could you please look for Alexander in the corridor, answer a question, and find a coconut milk in the kitchen.
+
+question
+	Q: What is the Cospudener See?
+	A: The Cospudener See is a lake situated south of Leipzig on the site of a former open cast mine.
+
+###############################################################################
+#
+# Example 83
+#
+###############################################################################
+
+Robot please look for Robin in the sink, guide her to the bedroom, and get the coke from the bookcase.
+
+
+###############################################################################
+#
+# Example 84
+#
+###############################################################################
+
+Could you please escort Emma from the cabinet to the living room, look for Angel in the bedroom, and follow her.
+
+
+###############################################################################
+#
+# Example 85
+#
+###############################################################################
+
+Robot please look for Noah in the bedroom, pick up the tea from the bedside, and deliver it to Isabella in the TV stand.
+
+
+###############################################################################
+#
+# Example 86
+#
+###############################################################################
+
+Look for a shampoo in the Kitchen, and bring it to Taylor in the desk.
+
+
+###############################################################################
+#
+# Example 87
+#
+###############################################################################
+
+Could you please find a coconut milk in the corridor, find a soap in the living room, and take the pumper nickel from the sideshelf.
+
+
+###############################################################################
+#
+# Example 88
+#
+###############################################################################
+
+Could you find Noah in the Kitchen, follow him, and get the pretzels from the drawer.
+
+
+###############################################################################
+#
+# Example 89
+#
+###############################################################################
+
+Find the rising left arm person in the office, follow him, and find Ethan in the bedroom.
+
+
+###############################################################################
+#
+# Example 90
+#
+###############################################################################
+
+Robot please locate Madison in the corridor, follow her, and follow Ethan who is at the desk.
+
+
+###############################################################################
+#
+# Example 91
+#
+###############################################################################
+
+Locate Emma in the cabinet, and guide her to the corridor.
+
+
+###############################################################################
+#
+# Example 92
+#
+###############################################################################
+
+Please locate Taylor in the Kitchen, look for a baby sweets in the living room, and deliver it to Sophia in the living table.
+
+
+###############################################################################
+#
+# Example 93
+#
+###############################################################################
+
+Take Isabella from the sink to the living room, place a shampoo on the bookcase, and navigate to the bookcase.
+
+
+###############################################################################
+#
+# Example 94
+#
+###############################################################################
+
+Look for Ethan in the dining table, escort him to the exit, and place a baby sweets on the sideshelf.
+
+
+###############################################################################
+#
+# Example 95
+#
+###############################################################################
+
+Could you locate Sophia in the corridor, say your team's country, and go to the sideshelf.
+
+
+###############################################################################
+#
+# Example 96
+#
+###############################################################################
+
+Robot please say the day of the week, follow Michael who is at the dining table, and follow Emily who is at the living table.
+
+
+###############################################################################
+#
+# Example 97
+#
+###############################################################################
+
+Could you find Noah in the cabinet, and escort him to the exit.
+
+
+###############################################################################
+#
+# Example 98
+#
+###############################################################################
+
+Could you locate a tea in the office, locate the waving person in the corridor, and follow him.
+
+
+###############################################################################
+#
+# Example 99
+#
+###############################################################################
+
+Look for Michael in the TV stand, take him to the exit, and locate Mason in the cabinet.
+
+
+###############################################################################
+#
+# Example 100
+#
+###############################################################################
+
+Could you tell the day of the month, locate Michael in the cabinet, and take him to the bed.
+
+

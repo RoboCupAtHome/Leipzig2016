@@ -1,0 +1,966 @@
+﻿Attempt 1:
+Go to the sideshelf, grasp the apple and bring it to me
+Navigate to the bedside, pick the choco syrup and bring it to me
+Move to the desk, grab the chips and bring it to me
+Drive to the sideshelf, fetch the paprika and bring it to me
+Go to the bedside, take the bisquits and bring it to me
+Navigate to the desk, pick the pretzels and bring it to me
+Move to the sideshelf, grab the pumper_nickel and bring it to me
+Drive to the bedside, fetch the baby sweets and bring it to me
+Go to the desk, take the pringles and bring it to me
+Navigate to the sideshelf, pick the apple and bring it to me
+Move to the bedside, grab the egg and bring it to me
+Drive to the desk, fetch the chips and bring it to me
+Go to the sideshelf, take the paprika and bring it to me
+Navigate to the bedside, grasp the egg and bring it to me
+Drive to the desk, pick the pretzels and bring it to me
+
+Attempt 2:
+Go to the Drawer, ask the person his name and tell it to me
+Go to the Desk, ask the person his name and tell it to me
+Go to the Bed, ask the person his name and tell it to me
+Go to the Bedside, ask the person his name and tell it to me
+Go to the Bar, ask the person his name and tell it to me
+Navigate to the Cupboard, ask the person his name and tell it to me
+Move to the Sink, ask the person his name and tell it to me
+Drive to the Sideshelf, ask the person his name and tell it to me
+Go to the Bookcase, ask the person his name and tell it to me
+Navigate to the Dining Table, ask the person his name and tell it to me
+Move to the TV stand, ask the person his name and tell it to me
+Drive to the Living shelf, ask the person his name and tell it to me
+Go to the Living Table, ask the person his name and tell it to me
+Navigate to the Cabinet, ask the person his name and tell it to me
+Drive to the Drawer, ask the person his name and tell it to me
+
+Attempt 3:
+Drive to the bedside, fetch the baby sweets and bring it to me
+Go to the desk, take the pringles and bring it to me
+Navigate to the sideshelf, pick the apple and bring it to me
+Move to the bedside, grab the egg and bring it to me
+Drive to the desk, fetch the chips and bring it to me
+Drive to the sideshelf, fetch the paprika and bring it to me
+Go to the bedside, take the bisquits and bring it to me
+Navigate to the desk, pick the pretzels and bring it to me
+Move to the sideshelf, grab the pumper_nickel and bring it to me
+Go to the sideshelf, take the paprika and bring it to me
+Navigate to the bedside, grasp the egg and bring it to me
+Drive to the desk, pick the pretzels and bring it to me
+Go to the sideshelf, grasp the apple and bring it to me
+Navigate to the bedside, pick the choco syrup and bring it to me
+Move to the desk, grab the chips and bring it to me
+
+
+###############################################################################
+#
+# Example 1
+#
+###############################################################################
+
+Get the tea from the sideshelf, place it on the desk, and tell the day of the week.
+
+
+###############################################################################
+#
+# Example 2
+#
+###############################################################################
+
+Find Daniel at the sink, pick up the tea from the bar, and place it on the living shelf.
+
+
+###############################################################################
+#
+# Example 3
+#
+###############################################################################
+
+Take the tea from the living table, locate Angel at the dining table, and say the day of the month.
+
+
+###############################################################################
+#
+# Example 4
+#
+###############################################################################
+
+Find Daniel at the dining table, answer a question, and tell what day is tomorrow.
+
+question
+	Q: How many curry sausages are eaten in Germany each year?
+	A: About 800 million currywurst every year
+
+
+###############################################################################
+#
+# Example 7
+#
+###############################################################################
+
+Look for Alexander near the living table, answer a question, and look for Madison at the living table.
+
+question
+	Q: Who are the inventors of the C programming language?
+	A: Ken Thompson and Dennis Ritchie 
+
+###############################################################################
+#
+# Example 8
+#
+###############################################################################
+
+Locate James by the desk, answer a question, and tell the day of the month.
+
+question
+	Q: Which robot was the star in the movie Wall-E?
+	A: Wall-E
+
+###############################################################################
+#
+# Example 9
+#
+###############################################################################
+
+Look for Alexander in the bed, grasp the coke from the desk, and tell the time.
+
+
+###############################################################################
+#
+# Example 10
+#
+###############################################################################
+
+Locate Charlotte by the desk, answer a question, and pick up the tea from the dining table.
+
+question
+	Q: Where is Europe's oldest continuous coffee shop hosted?
+	A: Europe's oldest continuous coffee shop is in Leipzig.
+
+###############################################################################
+#
+# Example 11
+#
+###############################################################################
+
+Navigate to the TV stand, locate William, and answer a question.
+
+question
+	Q: February has 28 days. True or false?
+	A: True but in leap-years has 29.
+
+###############################################################################
+#
+# Example 12
+#
+###############################################################################
+
+Locate Emma near the cabinet, answer a question, and find Angel in the bed.
+
+question
+	Q: There are eleven days in a week. True or false?
+	A: False there are seven days in a week not eleven.
+
+###############################################################################
+#
+# Example 13
+#
+###############################################################################
+
+Go to the bookcase, take the tea from the bar, and hand it to Liam at the dining table.
+
+
+###############################################################################
+#
+# Example 15
+#
+###############################################################################
+
+Locate Emma near the desk, pick up the soap from the cabinet, and put it on the bedside.
+
+
+###############################################################################
+#
+# Example 16
+#
+###############################################################################
+
+Grasp the pringles from the bar, bring it to me, and find Noah by the sink.
+
+
+###############################################################################
+#
+# Example 17
+#
+###############################################################################
+
+Go to the sideshelf, get the bisquits from the TV stand, and bring it to me.
+
+
+###############################################################################
+#
+# Example 18
+#
+###############################################################################
+
+Get the tea from the drawer, navigate to the desk, and tell the time.
+
+
+###############################################################################
+#
+# Example 19
+#
+###############################################################################
+
+Go to the desk, locate Liam near the TV stand, and go to the bar.
+
+
+###############################################################################
+#
+# Example 20
+#
+###############################################################################
+
+Grasp the coke from the living shelf, hand it to Sophia by the TV stand, and locate Emily near the living table.
+
+
+###############################################################################
+#
+# Example 22
+#
+###############################################################################
+
+Find Taylor near the desk, find Jacob by the sink, and answer a question.
+
+question
+	Q: Which company makes ASIMO?
+	A: Honda
+
+
+###############################################################################
+#
+# Example 24
+#
+###############################################################################
+
+Get the soap from the desk, locate Isabella by the TV stand, and answer a question.
+
+question
+	Q: In which city will next year's RoboCup be hosted?
+	A: It hasn't been announced yet.
+
+###############################################################################
+#
+# Example 25
+#
+###############################################################################
+
+Get the tea from the TV stand, go to the bed, and deliver it to Mason.
+
+
+###############################################################################
+#
+# Example 26
+#
+###############################################################################
+
+Go to the sideshelf, pick up the bisquits, and place it on the desk.
+
+
+###############################################################################
+#
+# Example 27
+#
+###############################################################################
+
+Pick up the tea from the sideshelf, give it to me, and navigate to the sideshelf.
+
+
+###############################################################################
+#
+# Example 28
+#
+###############################################################################
+
+Go to the bar, get the pringles, and place it on the bedside.
+
+
+###############################################################################
+#
+# Example 29
+#
+###############################################################################
+
+Take the coke from the dining table, deliver it to me, and navigate to the drawer.
+
+
+###############################################################################
+#
+# Example 30
+#
+###############################################################################
+
+Find Emma by the desk, locate William in the bed, and say the time.
+
+
+###############################################################################
+#
+# Example 31
+#
+###############################################################################
+
+Locate Emily near the living table, pick up the bisquits from the bookcase, and deliver it on the sideshelf.
+
+
+###############################################################################
+#
+# Example 32
+#
+###############################################################################
+
+Tell the day of the month, tell the day of the week, and pick up the pringles from the sink.
+
+
+###############################################################################
+#
+# Example 33
+#
+###############################################################################
+
+Take the tea from the sink, navigate to the sideshelf, and navigate to the bedside.
+
+
+###############################################################################
+#
+# Example 34
+#
+###############################################################################
+
+Go to the drawer, locate James at the living table, and answer a question.
+
+question
+	Q: There are eleven days in a week. True or false?
+	A: False there are seven days in a week not eleven.
+
+###############################################################################
+#
+# Example 35
+#
+###############################################################################
+
+Pick up the beer from the living table, go to the dining table, and tell the day of the week.
+
+
+###############################################################################
+#
+# Example 36
+#
+###############################################################################
+
+Grasp the pringles from the living table, navigate to the TV stand, and deliver it to Sophia.
+
+
+###############################################################################
+#
+# Example 37
+#
+###############################################################################
+
+Go to the cupboard, grasp the coke, and put it on the bedside.
+
+###############################################################################
+#
+# Example 39
+#
+###############################################################################
+
+Navigate to the cupboard, go to the cabinet, and find Mason in the bed.
+
+
+###############################################################################
+#
+# Example 40
+#
+###############################################################################
+
+Get the pringles from the living table, tell the time, and navigate to the sideshelf.
+
+
+###############################################################################
+#
+# Example 41
+#
+###############################################################################
+
+Take the beer from the cupboard, give it to me, and go to the living shelf.
+
+
+###############################################################################
+#
+# Example 43
+#
+###############################################################################
+
+Navigate to the sink, look for William, and answer a question.
+
+question
+	Q: Where started the peaceful revolution of 1989?
+	A: The peaceful revolution started in September 4 1989 in Leipzig at the St. Nicholas Church.
+
+###############################################################################
+#
+# Example 44
+#
+###############################################################################
+
+Take the bisquits from the cabinet, navigate to the living shelf, and navigate to the drawer.
+
+
+###############################################################################
+#
+# Example 45
+#
+###############################################################################
+
+Locate Alexander in the bed, look for William near the TV stand, and say what day is tomorrow.
+
+
+###############################################################################
+#
+# Example 46
+#
+###############################################################################
+
+Go to the cabinet, look for Isabella at the desk, and answer a question.
+
+question
+	Q: In which city will next year's RoboCup be hosted?
+	A: It hasn't been announced yet.
+
+###############################################################################
+#
+# Example 48
+#
+###############################################################################
+
+Say what day is tomorrow, navigate to the bar, and pick up the beer from the sideshelf.
+
+
+###############################################################################
+#
+# Example 49
+#
+###############################################################################
+
+Find James in the cabinet, navigate to the living shelf, and locate Charlotte at the TV stand.
+
+
+###############################################################################
+#
+# Example 50
+#
+###############################################################################
+
+Get the bisquits from the desk, go to the cabinet, and tell a joke.
+
+###############################################################################
+#
+# Example 52
+#
+###############################################################################
+
+Get the pringles from the bookcase, navigate to the dining table, and give it to Daniel.
+
+
+###############################################################################
+#
+# Example 53
+#
+###############################################################################
+
+Navigate to the TV stand, grasp the pringles, and deliver it to me.
+
+
+###############################################################################
+#
+# Example 54
+#
+###############################################################################
+
+Grasp the tea from the bedside, give it to me, and locate Isabella near the desk.
+
+----- NON-CHECKED ONES BELOW ----------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###############################################################################
+#
+# Example 55
+#
+###############################################################################
+
+Grasp the soap from the bookcase, deliver it on the cupboard, and locate Liam in the bed.
+
+
+###############################################################################
+#
+# Example 56
+#
+###############################################################################
+
+Find James in the sink, tell the time, and navigate to the bedside.
+
+
+###############################################################################
+#
+# Example 57
+#
+###############################################################################
+
+Locate Liam in the living table, answer a question, and say a joke.
+
+question
+	Q: What origin has the word Robot?
+	A: The Czech word robota that means forced work or labour
+
+###############################################################################
+#
+# Example 58
+#
+###############################################################################
+
+Go to the bookcase, find Michael in the cabinet, and answer a question.
+
+question
+	Q: Who developed the first industrial robot?
+	A: The American physicist Joseph Engelberg. He is also considered the father of robotics.
+
+###############################################################################
+#
+# Example 59
+#
+###############################################################################
+
+Go to the living table, find Ava in the desk, and answer a question.
+
+question
+	Q: What Apollo was the last to land on the moon?
+	A: Apollo 17
+
+###############################################################################
+#
+# Example 60
+#
+###############################################################################
+
+Look for Emma in the bed, answer a question, and grasp the tea from the sideshelf.
+
+question
+	Q: In which city is this year's RoboCup hosted?
+	A: In Leipzig Germany.
+
+###############################################################################
+#
+# Example 61
+#
+###############################################################################
+
+Locate Ethan in the TV stand, go to the bar, and navigate to the living shelf.
+
+
+###############################################################################
+#
+# Example 62
+#
+###############################################################################
+
+Go to the desk, find Madison, and answer a question.
+
+question
+	Q: What's the difference between a cyborg and an android?
+	A: Cyborgs are biological being with electromechanical enhancements. Androids are human-shaped robots.
+
+###############################################################################
+#
+# Example 63
+#
+###############################################################################
+
+Say the time, grasp the bisquits from the desk, and get the coke from the living shelf.
+
+
+###############################################################################
+#
+# Example 64
+#
+###############################################################################
+
+Go to the bed, find Madison, and answer a question.
+
+question
+	Q: What Apollo was the last to land on the moon?
+	A: Apollo 17
+
+###############################################################################
+#
+# Example 65
+#
+###############################################################################
+
+Look for Robin in the dining table, take the pringles from the bedside, and deliver it on the bar.
+
+
+###############################################################################
+#
+# Example 66
+#
+###############################################################################
+
+Go to the dining table, look for Ethan, and answer a question.
+
+question
+	Q: What is the funny clumsy character of the Star Wars prequals?
+	A: Jar-Jar Binks
+
+###############################################################################
+#
+# Example 67
+#
+###############################################################################
+
+Grasp the beer from the drawer, bring it to me, and locate Noah in the sink.
+
+
+###############################################################################
+#
+# Example 68
+#
+###############################################################################
+
+Go to the cabinet, get the beer, and put it on the bedside.
+
+
+###############################################################################
+#
+# Example 69
+#
+###############################################################################
+
+Take the beer from the living table, navigate to the cabinet, and bring it to Liam.
+
+
+###############################################################################
+#
+# Example 70
+#
+###############################################################################
+
+Get the pringles from the cabinet, hand it to me, and go to the dining table.
+
+
+###############################################################################
+#
+# Example 71
+#
+###############################################################################
+
+Locate Mason in the TV stand, answer a question, and get the beer from the drawer.
+
+question
+	Q: What is the heaviest element?
+	A: Plutonium when measured by the mass of the element but Osmium is densest
+
+###############################################################################
+#
+# Example 72
+#
+###############################################################################
+
+Say a joke, navigate to the living table, and go to the sideshelf.
+
+
+###############################################################################
+#
+# Example 73
+#
+###############################################################################
+
+Take the soap from the dining table, put it on the desk, and look for Daniel in the bed.
+
+
+###############################################################################
+#
+# Example 74
+#
+###############################################################################
+
+Navigate to the desk, get the bisquits, and hand it to me.
+
+
+###############################################################################
+#
+# Example 75
+#
+###############################################################################
+
+Get the bisquits from the cupboard, grasp the soap from the dining table, and give it to Mason in the bed.
+
+
+###############################################################################
+#
+# Example 76
+#
+###############################################################################
+
+Look for Liam in the cabinet, go to the desk, and look for Madison in the sink.
+
+
+###############################################################################
+#
+# Example 77
+#
+###############################################################################
+
+Tell the time, tell your team's country, and get the bisquits from the drawer.
+
+
+###############################################################################
+#
+# Example 78
+#
+###############################################################################
+
+Locate Emma in the desk, tell the time, and navigate to the bar.
+
+
+###############################################################################
+#
+# Example 79
+#
+###############################################################################
+
+Tell what day is today, find Robin in the cabinet, and answer a question.
+
+question
+	Q: Do you have dreams?
+	A: I dream of Electric Sheep.
+
+###############################################################################
+#
+# Example 80
+#
+###############################################################################
+
+Pick up the pringles from the living table, give it to Ethan in the living table, and say the day of the month.
+
+
+###############################################################################
+#
+# Example 81
+#
+###############################################################################
+
+Navigate to the living shelf, pick up the pringles, and deliver it to Robin in the bed.
+
+
+###############################################################################
+#
+# Example 82
+#
+###############################################################################
+
+Get the pringles from the cabinet, put it on the bar, and locate Madison in the dining table.
+
+
+###############################################################################
+#
+# Example 83
+#
+###############################################################################
+
+Look for Madison in the desk, grasp the bisquits from the bedside, and take the tea from the drawer.
+
+
+###############################################################################
+#
+# Example 84
+#
+###############################################################################
+
+Go to the bookcase, get the tea, and place it on the bedside.
+
+
+###############################################################################
+#
+# Example 85
+#
+###############################################################################
+
+Get the beer from the TV stand, grasp the coke from the drawer, and navigate to the bar.
+
+
+###############################################################################
+#
+# Example 86
+#
+###############################################################################
+
+Navigate to the bookcase, grasp the beer, and give it to Mason in the dining table.
+
+
+###############################################################################
+#
+# Example 87
+#
+###############################################################################
+
+Grasp the soap from the drawer, go to the bed, and bring it to Emma.
+
+
+###############################################################################
+#
+# Example 88
+#
+###############################################################################
+
+Take the coke from the sideshelf, give it to Angel in the dining table, and say your team's affiliation.
+
+
+###############################################################################
+#
+# Example 89
+#
+###############################################################################
+
+Grasp the coke from the dining table, go to the bed, and deliver it to Liam.
+
+
+###############################################################################
+#
+# Example 90
+#
+###############################################################################
+
+Go to the cupboard, grasp the soap, and give it to William in the cabinet.
+
+
+###############################################################################
+#
+# Example 91
+#
+###############################################################################
+
+Go to the bookcase, navigate to the cabinet, and say your team's name.
+
+
+###############################################################################
+#
+# Example 92
+#
+###############################################################################
+
+Take the tea from the cupboard, go to the desk, and give it to Alexander.
+
+
+###############################################################################
+#
+# Example 93
+#
+###############################################################################
+
+Locate Isabella in the sink, get the beer from the bedside, and tell the day of the week.
+
+
+###############################################################################
+#
+# Example 94
+#
+###############################################################################
+
+Find Charlotte in the bed, answer a question, and take the coke from the living shelf.
+
+question
+	Q: How many curry sausages are eaten in Germany each year?
+	A: About 800 million currywurst every year
+
+###############################################################################
+#
+# Example 95
+#
+###############################################################################
+
+Go to the sideshelf, pick up the beer from the dining table, bring it to Noah in the living table, and answer a question.
+
+question
+	Q: What is the heaviest element?
+	A: Plutonium when measured by the mass of the element but Osmium is densest
+
+###############################################################################
+#
+# Example 96
+#
+###############################################################################
+
+Find Alexander in the desk, find Charlotte in the bed, and answer a question.
+
+question
+	Q: Which robot was the star in the movie Wall-E?
+	A: Wall-E
+
+###############################################################################
+#
+# Example 97
+#
+###############################################################################
+
+Go to the sideshelf, take the soap, and hand it to me.
+
+
+###############################################################################
+#
+# Example 98
+#
+###############################################################################
+
+Navigate to the cabinet, get the coke, and put it on the drawer.
+
+
+###############################################################################
+#
+# Example 99
+#
+###############################################################################
+
+Say the day of the month, look for Ava in the dining table, and answer a question.
+
+question
+	Q: What is the heaviest element?
+	A: Plutonium when measured by the mass of the element but Osmium is densest
+
+###############################################################################
+#
+# Example 100
+#
+###############################################################################
+
+Get the beer from the bedside, grasp the coke from the sideshelf, and give it to Emily in the desk.
+
+

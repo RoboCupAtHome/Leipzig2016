@@ -1,0 +1,1290 @@
+﻿Attempt 1:
+Bring me a drink from the living table (Ask for a beer. there are no drinks there but only foods)
+Bring me a food from the living table (Ask for an apple. There are no foods on the living table but only drinks)
+
+Attempt 2:
+Bring me a snack from the living table (Ask for chips. there are no snacks there but only foods)
+Bring me some candy from the living table (Ask for bisquits. There is no candy on the living table but only drinks)
+
+Attempt 3:
+Bring me a food from the living table (Ask for an apple. There are no foods on the living table but only drinks)
+Bring me a drink from the living table (Ask for a beer. there are no drinks there but only foods)
+
+###############################################################################
+#
+# Example 1
+#
+###############################################################################
+
+Take the paprika from the kitchen, put it on the TV stand, and follow Ava who is at the desk.
+
+kitchen
+	bookcase
+TV stand
+	Access to destination is blocked
+desk
+	All paths are blocked
+
+###############################################################################
+#
+# Example 2
+#
+###############################################################################
+
+Could you guide Michael from the bedroom to the desk, say your team's name, and pick up the pretzels from the sideshelf.
+
+bedroom
+	bed
+desk
+	All paths are blocked
+sideshelf
+	The object is not there
+
+###############################################################################
+#
+# Example 3
+#
+###############################################################################
+
+Could you put a soap on the desk, locate Sophia in the dining room, and answer a question.
+
+soap
+	The object is not there
+question
+	Q: There are eleven days in a week. True or false?
+	A: False there are seven days in a week not eleven.
+
+###############################################################################
+#
+# Example 4
+#
+###############################################################################
+
+Could you take the beer from the sideshelf, locate Michael in the office, and follow him.
+
+sideshelf
+	The object is not there
+
+###############################################################################
+#
+# Example 5
+#
+###############################################################################
+
+Could you look for Ethan in the sink, take him to the sink, and locate a food in the living room.
+
+sink
+	All paths are blocked
+food
+	pumper nickel
+
+###############################################################################
+#
+# Example 6
+#
+###############################################################################
+
+Robot please locate the rising left arm person in the bedroom, escort him to the desk, and locate Emma in the office.
+
+desk
+	All paths are blocked
+
+###############################################################################
+#
+# Example 7
+#
+###############################################################################
+
+Robot please get the containers from the desk, give it to Liam in the living room, and follow him.
+
+containers
+	plate
+living room
+	TV stand
+
+###############################################################################
+#
+# Example 8
+#
+###############################################################################
+
+Could you find the pointing right person in the living room, follow him, and go to the sideshelf.
+
+
+###############################################################################
+#
+# Example 9
+#
+###############################################################################
+
+Robot please navigate to the sideshelf, locate Liam in the desk, and take him to the living table.
+
+living table
+	All paths are blocked
+
+###############################################################################
+#
+# Example 10
+#
+###############################################################################
+
+Could you take the chips from the kitchen, give it to Emma in the office, and take her to the sink.
+
+kitchen
+	dining table
+office
+	desk
+sink
+	All paths are blocked
+
+###############################################################################
+#
+# Example 11
+#
+###############################################################################
+
+Could you look for Noah in the dining table, and guide him to the apartment.
+
+apartment
+	living room
+
+###############################################################################
+#
+# Example 12
+#
+###############################################################################
+
+Robot please get the snacks from the sink, bring it to me, and answer a question.
+
+snacks
+	pretzels
+question
+	Q: January has 31 days. True or false?
+	A: True January has 31 days.
+
+###############################################################################
+#
+# Example 13
+#
+###############################################################################
+
+Could you please take Robin from the living room to the apartment, find Charlotte in the office, and place a soap on the living room.
+
+living room
+	living table
+apartment
+	corridor
+living room
+	living shelf
+
+###############################################################################
+#
+# Example 14
+#
+###############################################################################
+
+Robot please locate Robin in the dining room, answer a question, and pick up the pumper nickel from the bar.
+
+question
+	Q: Which robot was the star in the movie Wall-E?
+	A: Wall-E
+pumper nickel
+	Replace with cloth
+
+###############################################################################
+#
+# Example 15
+#
+###############################################################################
+
+Could you please locate a person in the sink, look for the rising left arm person in the dining room, and follow him.
+
+a person
+	Mason
+
+###############################################################################
+#
+# Example 16
+#
+###############################################################################
+
+Please grasp the egg from the kitchen, give it to Madison in the bedroom, and guide her to the apartment.
+
+kitchen
+	sink
+bedroom
+	bed
+apartment
+	kitchen
+
+###############################################################################
+#
+# Example 17
+#
+###############################################################################
+
+Find a person in the TV stand, locate Michael in the living room, and follow him.
+
+a person
+	Madison
+
+###############################################################################
+#
+# Example 18
+#
+###############################################################################
+
+Could you find Liam in the kitchen, follow him, and follow Angel who is at the desk.
+
+desk
+	All paths are blocked
+
+###############################################################################
+#
+# Example 19
+#
+###############################################################################
+
+Could you please take the drinks from the sink, hand it to Alexander in the bed, and follow Liam who is at the cabinet.
+
+drinks
+	coconut milk
+cabinet
+	All paths are blocked
+
+###############################################################################
+#
+# Example 20
+#
+###############################################################################
+
+Robot please tell what day is tomorrow, find Ethan in the office, and follow him.
+
+
+###############################################################################
+#
+# Example 21
+#
+###############################################################################
+
+Grasp the cloth from the dining table, place it on the sideshelf, and pick up the baby sweets from the bookcase.
+
+cloth
+	Replace with apple
+sideshelf
+	Access to destination is blocked
+bookcase
+	The object is not there
+
+###############################################################################
+#
+# Example 22
+#
+###############################################################################
+
+Please grasp the drinks from the bedside, give it to Isabella in the bedroom, and follow her.
+
+drinks
+	beer
+bedroom
+	bed
+
+###############################################################################
+#
+# Example 23
+#
+###############################################################################
+
+Robot please find Taylor in the TV stand, and take her to the apartment.
+
+TV stand
+	Place male person instead.
+apartment
+	kitchen
+
+###############################################################################
+#
+# Example 24
+#
+###############################################################################
+
+Please put a drinks on the TV stand, look for Alexander in the office, and find Madison in the corridor.
+
+drinks
+	tea
+
+###############################################################################
+#
+# Example 25
+#
+###############################################################################
+
+Please locate Robin in the TV stand, take her to the apartment, and follow Liam who is at the TV stand.
+
+TV stand
+	Place male person instead.
+apartment
+	Kitchen
+TV stand
+	All paths are blocked
+
+###############################################################################
+#
+# Example 26
+#
+###############################################################################
+
+Robot please find Sophia in the office, follow her, and navigate to the living table.
+
+
+###############################################################################
+#
+# Example 27
+#
+###############################################################################
+
+Could you please pick up the egg from the cabinet, hand it to me, and answer a question.
+
+egg
+	Replace with apple
+question
+	Q: Where is one of the world's largest dark music festivals hosted?
+	A: Leipzig hosts one of the world's largest dark music festivals.
+
+###############################################################################
+#
+# Example 28
+#
+###############################################################################
+
+Please look for Charlotte in the bedroom, navigate to the living shelf, and find a person in the bed.
+
+a person
+	Jacob
+
+###############################################################################
+#
+# Example 29
+#
+###############################################################################
+
+Could you please go to the desk, look for William in the corridor, and look for a person in the TV stand.
+
+a person
+	Jacob
+
+###############################################################################
+#
+# Example 30
+#
+###############################################################################
+
+Find Liam in the kitchen, answer a question, and say your team's affiliation.
+
+question
+	Q: What company makes Big Dog?
+	A: Boston Dynamics
+
+###############################################################################
+#
+# Example 31
+#
+###############################################################################
+
+Locate a person in the bed, find Daniel in the Kitchen, and follow him.
+
+a person
+	Ethan
+
+###############################################################################
+#
+# Example 32
+#
+###############################################################################
+
+Could you please locate Angel in the sink, guide her to the living table, and say the day of the week.
+
+sink
+	Place male person instead.
+living table
+	All paths are blocked
+
+###############################################################################
+#
+# Example 33
+#
+###############################################################################
+
+Robot please pick up the apple from the cabinet, put it on the desk, and grasp the beer from the living shelf.
+
+cabinet
+	The object is not there
+desk
+	Access to destination is blocked
+living shelf
+	The object is not there
+
+###############################################################################
+#
+# Example 34
+#
+###############################################################################
+
+Please find William in the living room, follow him, and find Sophia in the office.
+
+
+###############################################################################
+#
+# Example 35
+#
+###############################################################################
+
+Tell your team's country, put a choco syrup on the drawer, and look for a person in the cabinet.
+
+drawer
+	Access to destination is blocked
+a person
+	Mason
+
+###############################################################################
+#
+# Example 36
+#
+###############################################################################
+
+Please locate Daniel in the living table, and guide him to the apartment.
+
+apartment
+	living room
+
+###############################################################################
+#
+# Example 37
+#
+###############################################################################
+
+Could you follow Angel who is at the dining table, find a containers in the dining room, and get the shampoo from the cupboard.
+
+dining table
+	All paths are blocked
+containers
+	plate
+cupboard
+	The object is not there
+
+###############################################################################
+#
+# Example 38
+#
+###############################################################################
+
+Find Madison in the cabinet, and escort her to the sink.
+
+cabinet
+	Place male person instead.
+sink
+	All paths are blocked
+
+###############################################################################
+#
+# Example 39
+#
+###############################################################################
+
+Could you tell your team's country, tell a joke, and escort Jacob from the office to the cabinet.
+
+office
+	desk
+cabinet
+	All paths are blocked
+
+###############################################################################
+#
+# Example 40
+#
+###############################################################################
+
+Could you look for Liam in the TV stand, and guide him to the apartment.
+
+apartment
+	Kitchen
+
+###############################################################################
+#
+# Example 41
+#
+###############################################################################
+
+Please pick up the soap from the dining table, give it to Robin in the living room, and guide her to the apartment.
+
+dining table
+	The object is not there
+living room
+	TV stand
+apartment
+	Kitchen
+
+###############################################################################
+#
+# Example 42
+#
+###############################################################################
+
+Could you please look for Alexander in the sink, and take him to the apartment.
+
+apartment
+	living room
+
+###############################################################################
+#
+# Example 43
+#
+###############################################################################
+
+Follow Ava who is at the living table, say the time, and look for Alexander in the living room.
+
+living table
+	All paths are blocked
+
+###############################################################################
+#
+# Example 44
+#
+###############################################################################
+
+Could you please locate Alexander in the desk, and escort him to the apartment.
+
+apartment
+	kitchen
+
+###############################################################################
+#
+# Example 45
+#
+###############################################################################
+
+Please look for Ethan in the bedroom, follow him, and guide Mason from the kitchen to the apartment.
+
+kitchen
+	sink
+apartment
+	office
+
+###############################################################################
+#
+# Example 46
+#
+###############################################################################
+
+Could you go to the cupboard, look for Charlotte in the bedroom, and follow her.
+
+
+###############################################################################
+#
+# Example 47
+#
+###############################################################################
+
+Please look for Alexander in the corridor, follow him, and look for a person in the desk.
+
+a person
+	Ethan
+
+###############################################################################
+#
+# Example 48
+#
+###############################################################################
+
+Could you say what day is today, find Angel in the living table, and guide her to the apartment.
+
+living table
+	Place male person instead.
+apartment
+	living room
+
+###############################################################################
+#
+# Example 49
+#
+###############################################################################
+
+Pick up the spponge from the bookcase, place it on the dining table, and take James from the kitchen to the desk.
+
+bookcase
+	The object is not there
+dining table
+	Access to destination is blocked
+kitchen
+	dining table
+desk
+	All paths are blocked
+
+###############################################################################
+#
+# Example 50
+#
+###############################################################################
+
+Locate a candies in the living room, and deliver it on the dining table.
+
+candies
+	bisquits
+dining table
+	Access to destination is blocked
+
+###############################################################################
+#
+# Example 51
+#
+###############################################################################
+
+Could you place a toiletries on the sideshelf, look for Emma in the cabinet, and guide her to the desk.
+
+toiletries
+	spponge
+cabinet
+	Place male person instead.
+desk
+	All paths are blocked
+
+###############################################################################
+#
+# Example 52
+#
+###############################################################################
+
+Could you locate Jacob in the living table, and take him to the dining table.
+
+dining table
+	All paths are blocked
+
+###############################################################################
+#
+# Example 53
+#
+###############################################################################
+
+Robot please place a drinks on the sink, navigate to the cupboard, and guide Sophia from the bedroom to the apartment.
+
+drinks
+	coke
+bedroom
+	bed
+apartment
+	office
+
+###############################################################################
+#
+# Example 54
+#
+###############################################################################
+
+Please look for William in the dining table, and escort him to the apartment.
+
+apartment
+	Kitchen
+
+###############################################################################
+#
+# Example 55
+#
+###############################################################################
+
+Robot please find a drinks in the Kitchen, look for the waving person in the office, and follow him.
+
+drinks
+	coconut milk
+
+###############################################################################
+#
+# Example 56
+#
+###############################################################################
+
+Could you say a joke, find a snacks in the Kitchen, and bring it to Jacob in the living table.
+
+snacks
+	chips
+
+###############################################################################
+#
+# Example 57
+#
+###############################################################################
+
+Deliver a chips on the living room, locate James in the kitchen, and answer a question.
+
+living room
+	TV stand
+question
+	Q: What's the difference between a cyborg and an android?
+	A: Cyborgs are biological being with electromechanical enhancements. Androids are human-shaped robots.
+
+###############################################################################
+#
+# Example 58
+#
+###############################################################################
+
+Please look for a drinks in the kitchen, and put it on the drawer.
+
+drinks
+	tea
+drawer
+	Access to destination is blocked
+
+###############################################################################
+#
+# Example 59
+#
+###############################################################################
+
+Please look for a person in the desk, look for Robin in the TV stand, and guide her to the living table.
+
+a person
+	James
+TV stand
+	Place male person instead.
+living table
+	All paths are blocked
+
+###############################################################################
+#
+# Example 60
+#
+###############################################################################
+
+Locate the pointing left person in the dining room, take him to the apartment, and pick up the pumper nickel from the office.
+
+apartment
+	office
+office
+	drawer
+
+###############################################################################
+#
+# Example 61
+#
+###############################################################################
+
+Robot please look for Mason in the desk, escort him to the living table, and guide Emma from the living room to the apartment.
+
+living table
+	All paths are blocked
+living room
+	living table
+apartment
+	living room
+
+###############################################################################
+#
+# Example 62
+#
+###############################################################################
+
+Could you locate Liam in the cabinet, and escort him to the apartment.
+
+apartment
+	kitchen
+
+###############################################################################
+#
+# Example 63
+#
+###############################################################################
+
+Guide Alexander from the corridor to the cabinet, look for Ethan in the desk, and guide him to the apartment.
+
+corridor
+	cabinet
+cabinet
+	All paths are blocked
+apartment
+	bedroom
+
+###############################################################################
+#
+# Example 64
+#
+###############################################################################
+
+Robot please locate Madison in the sink, and escort her to the living table.
+
+sink
+	Place male person instead.
+living table
+	All paths are blocked
+
+###############################################################################
+#
+# Example 65
+#
+###############################################################################
+
+Please locate a person in the dining table, locate Mason in the bed, and escort him to the apartment.
+
+a person
+	Robin
+apartment
+	living room
+
+###############################################################################
+#
+# Example 66
+#
+###############################################################################
+
+Could you please get the coconut milk from the sink, deliver it to Alexander in the living room, and guide him to the sink.
+
+sink
+	The object is not there
+living room
+	living table
+sink
+	All paths are blocked
+
+###############################################################################
+#
+# Example 67
+#
+###############################################################################
+
+Could you put a beer on the bookcase, find Ava in the desk, and escort her to the desk.
+
+bookcase
+	Access to destination is blocked
+desk
+	Place male person instead.
+desk
+	All paths are blocked
+
+###############################################################################
+#
+# Example 68
+#
+###############################################################################
+
+Robot please grasp the coconut milk from the dining table, look for Madison in the kitchen, and look for a candies in the living room.
+
+dining table
+	The object is not there
+candies
+	egg
+
+###############################################################################
+#
+# Example 69
+#
+###############################################################################
+
+Robot please deliver a drinks on the cabinet, find William in the dining room, and answer a question.
+
+drinks
+	coconut milk
+question
+	Q: What are names of Donald Duck's nephews?
+	A: Huey Dewey and Louie Duck
+
+###############################################################################
+#
+# Example 70
+#
+###############################################################################
+
+Grasp the plate from the bedside, bring it to William in the living room, and follow him.
+
+bedside
+	The object is not there
+living room
+	living table
+
+###############################################################################
+#
+# Example 71
+#
+###############################################################################
+
+Could you please say your team's name, look for a food in the Kitchen, and deliver it to me.
+
+food
+	pumper nickel
+
+###############################################################################
+#
+# Example 72
+#
+###############################################################################
+
+Please tell the day of the month, locate Mason in the TV stand, and escort him to the apartment.
+
+apartment
+	living room
+
+###############################################################################
+#
+# Example 73
+#
+###############################################################################
+
+Robot please escort Ava from the office to the cabinet, find a person in the bed, and pick up the bisquits from the dining room.
+
+office
+	desk
+cabinet
+	All paths are blocked
+a person
+	Liam
+dining room
+	sideshelf
+
+###############################################################################
+#
+# Example 74
+#
+###############################################################################
+
+Please locate Mason in the desk, guide him to the living table, and pick up the candies from the bookcase.
+
+living table
+	All paths are blocked
+candies
+	egg
+
+###############################################################################
+#
+# Example 75
+#
+###############################################################################
+
+Robot please find Charlotte in the dining table, and take her to the living table.
+
+dining table
+	Place male person instead.
+living table
+	All paths are blocked
+
+###############################################################################
+#
+# Example 76
+#
+###############################################################################
+
+Robot please get the spponge from the TV stand, hand it to Angel in the desk, and answer a question.
+
+TV stand
+	The object is not there
+question
+	Q: Name a dragon in The Lord of the Rings?
+	A: Smaug
+
+###############################################################################
+#
+# Example 77
+#
+###############################################################################
+
+Find Ava in the office, answer a question, and tell the time.
+
+question
+	Q: Do you have dreams?
+	A: I dream of Electric Sheep.
+
+###############################################################################
+#
+# Example 78
+#
+###############################################################################
+
+Could you look for the rising left arm person in the kitchen, escort him to the TV stand, and take Taylor from the office to the cabinet.
+
+TV stand
+	All paths are blocked
+office
+	desk
+cabinet
+	All paths are blocked
+
+###############################################################################
+#
+# Example 79
+#
+###############################################################################
+
+Please place a soap on the sideshelf, take Liam from the kitchen to the apartment, and find Ava in the corridor.
+
+sideshelf
+	Access to destination is blocked
+kitchen
+	sink
+apartment
+	bedroom
+
+###############################################################################
+#
+# Example 80
+#
+###############################################################################
+
+Robot please locate the pointing right person in the dining room, escort him to the apartment, and look for Emily in the kitchen.
+
+apartment
+	bedroom
+
+###############################################################################
+#
+# Example 81
+#
+###############################################################################
+
+Could you navigate to the drawer, pick up the candies from the living table, and look for a snacks in the corridor.
+
+candies
+	baby sweets
+snacks
+	pretzels
+
+###############################################################################
+#
+# Example 82
+#
+###############################################################################
+
+Could you please place a drinks on the cabinet, look for Michael in the kitchen, and answer a question.
+
+drinks
+	coconut milk
+question
+	Q: Do you have dreams?
+	A: I dream of Electric Sheep.
+
+###############################################################################
+#
+# Example 83
+#
+###############################################################################
+
+Please locate a person in the living table, guide Sophia from the office to the apartment, and find a person in the sink.
+
+a person
+	Mason
+office
+	desk
+apartment
+	living room
+a person
+	Jacob
+
+###############################################################################
+#
+# Example 84
+#
+###############################################################################
+
+Could you please locate Liam in the corridor, follow him, and look for a candies in the Kitchen.
+
+candies
+	bisquits
+
+###############################################################################
+#
+# Example 85
+#
+###############################################################################
+
+Robot please navigate to the drawer, find a person in the living table, and look for a candies in the Kitchen.
+
+a person
+	Emma
+candies
+	baby sweets
+
+###############################################################################
+#
+# Example 86
+#
+###############################################################################
+
+Could you please take the plate from the sink, give it to Jacob in the kitchen, and follow him.
+
+sink
+	The object is not there
+kitchen
+	dining table
+
+###############################################################################
+#
+# Example 87
+#
+###############################################################################
+
+Please follow Michael who is at the sink, look for Ethan in the corridor, and follow him.
+
+sink
+	All paths are blocked
+
+###############################################################################
+#
+# Example 88
+#
+###############################################################################
+
+Could you please pick up the snacks from the cupboard, follow Mason who is at the desk, and look for a drinks in the dining room.
+
+snacks
+	pringles
+desk
+	All paths are blocked
+drinks
+	coconut milk
+
+###############################################################################
+#
+# Example 89
+#
+###############################################################################
+
+Could you find Jacob in the desk, guide him to the TV stand, and guide Emily from the living room to the living table.
+
+TV stand
+	All paths are blocked
+living room
+	living table
+living table
+	All paths are blocked
+
+###############################################################################
+#
+# Example 90
+#
+###############################################################################
+
+Robot please locate the pointing left person in the living room, guide him to the dining table, and take Liam from the bedroom to the sink.
+
+dining table
+	All paths are blocked
+bedroom
+	bed
+sink
+	All paths are blocked
+
+###############################################################################
+#
+# Example 91
+#
+###############################################################################
+
+Robot please find Isabella in the cabinet, take her to the sink, and follow Emma who is at the living table.
+
+cabinet
+	Place male person instead.
+sink
+	All paths are blocked
+living table
+	All paths are blocked
+
+###############################################################################
+#
+# Example 92
+#
+###############################################################################
+
+Locate Robin in the dining table, guide her to the apartment, and grasp the pumper nickel from the bookcase.
+
+dining table
+	Place male person instead.
+apartment
+	corridor
+pumper nickel
+	Replace with cloth
+
+###############################################################################
+#
+# Example 93
+#
+###############################################################################
+
+Follow Noah who is at the desk, look for the waving person in the kitchen, and follow him.
+
+desk
+	All paths are blocked
+
+###############################################################################
+#
+# Example 94
+#
+###############################################################################
+
+Tell what day is tomorrow, get the baby sweets from the bar, and give it to Liam in the cabinet.
+
+baby sweets
+	Replace with cloth
+
+###############################################################################
+#
+# Example 95
+#
+###############################################################################
+
+Tell a joke, put a tray on the Kitchen, and find a person in the TV stand.
+
+Kitchen
+	bookcase
+a person
+	Angel
+
+###############################################################################
+#
+# Example 96
+#
+###############################################################################
+
+Robot please look for Sophia in the bed, and guide her to the cabinet.
+
+bed
+	Place male person instead.
+cabinet
+	All paths are blocked
+
+###############################################################################
+#
+# Example 97
+#
+###############################################################################
+
+Could you tell a joke, find the rising left arm person in the living room, and follow him.
+
+
+###############################################################################
+#
+# Example 98
+#
+###############################################################################
+
+Could you please grasp the drinks from the living shelf, give it to Alexander in the corridor, and follow him.
+
+drinks
+	coconut milk
+corridor
+	cabinet
+
+###############################################################################
+#
+# Example 99
+#
+###############################################################################
+
+Robot please navigate to the drawer, locate Emma in the office, and follow her.
+
+
+###############################################################################
+#
+# Example 100
+#
+###############################################################################
+
+Could you find Daniel in the sink, and take him to the apartment.
+
+apartment
+	bedroom
+
