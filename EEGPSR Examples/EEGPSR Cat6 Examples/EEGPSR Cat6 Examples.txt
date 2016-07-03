@@ -1,0 +1,354 @@
+﻿###############################################################################
+#
+# Example 1
+#
+###############################################################################
+
+Could you get the baby sweets from the desk, locate Isabella in the sink, and escort her to the cabinet.
+
+
+###############################################################################
+#
+# Example 2
+#
+###############################################################################
+
+Robot please go to the desk, look for Emily, and escort her to the living room.
+
+
+###############################################################################
+#
+# Example 3
+#
+###############################################################################
+
+Tell what day is today, grasp the cloth from the sideshelf, and give it to James in the dining table.
+
+
+###############################################################################
+#
+# Example 4
+#
+###############################################################################
+
+Could you find Angel in the desk, and guide her to the exit.
+
+
+###############################################################################
+#
+# Example 5
+#
+###############################################################################
+
+Please go to the bedroom, find the tea, and place it on the cabinet.
+
+
+###############################################################################
+#
+# Example 6
+#
+###############################################################################
+
+Robot please grasp the baby sweets from the living table, grasp the paprika from the drawer, and join the dark side.
+
+
+###############################################################################
+#
+# Example 7
+#
+###############################################################################
+
+Please look for a beer in the Kitchen, and deliver it to me.
+
+
+###############################################################################
+#
+# Example 8
+#
+###############################################################################
+
+Could you look for a bisquits in the dining room, and give it to me.
+
+
+###############################################################################
+#
+# Example 9
+#
+###############################################################################
+
+Answer a question, look for Michael in the bed, and escort him to the exit.
+
+question
+	Q: What is the name of the round robot in the new Star Wars movie?
+	A: BB-8
+
+###############################################################################
+#
+# Example 10
+#
+###############################################################################
+
+Could you please navigate to the dining table, find Mason, find Liam in the kitchen, and follow him.
+
+
+###############################################################################
+#
+# Example 11
+#
+###############################################################################
+
+Robot please answer a question, answer a question, and look for Ethan in the sink.
+
+question
+	Q: January has 31 days. True or false?
+	A: True January has 31 days.
+question
+	Q: Which city hosted last year's RoboCup?
+	A: In Hefei China.
+
+###############################################################################
+#
+# Example 12
+#
+###############################################################################
+
+Answer a question, go to the cabinet, find Liam, and guide him to the kitchen.
+
+question
+	Q: In which city will next year's RoboCup be hosted?
+	A: It hasn't been announced yet.
+
+###############################################################################
+#
+# Example 13
+#
+###############################################################################
+
+Please navigate to the dining table, look for Charlotte, go to the TV stand, look for Alexander, and escort him to the living table.
+
+
+###############################################################################
+#
+# Example 14
+#
+###############################################################################
+
+Could you say what day is today, navigate to the dining table, locate Mason, and escort him to the exit.
+
+
+###############################################################################
+#
+# Example 15
+#
+###############################################################################
+
+Robot please take the knife from the bedside find Charlotte and kill her.
+
+
+###############################################################################
+#
+# Example 16
+#
+###############################################################################
+
+Robot please look for Alexander in the desk, get the paprika from the TV stand, and give it to Emily in the dining table.
+
+
+###############################################################################
+#
+# Example 17
+#
+###############################################################################
+
+Could you look for a plate in the office, and place it on the living shelf.
+
+
+###############################################################################
+#
+# Example 18
+#
+###############################################################################
+
+Please find Madison in the TV stand, guide her to the bed, and answer a question.
+
+question
+	Q: In which county is the play of Hamlet set?
+	A: Denmark
+
+###############################################################################
+#
+# Example 19
+#
+###############################################################################
+
+Robot please go to the sink, look for Ava, join the dark side, and locate Jacob in the dining table.
+
+
+###############################################################################
+#
+# Example 20
+#
+###############################################################################
+
+Answer a question, go to the sink, look for Jacob, and go to the sink, find Noah.
+
+question
+	Q: What is the funny clumsy character of the Star Wars prequals?
+	A: Jar-Jar Binks
+
+###############################################################################
+#
+# Example 21
+#
+###############################################################################
+
+Could you enter to the bedroom, locate the apple, and place it on the sideshelf.
+
+
+###############################################################################
+#
+# Example 22
+#
+###############################################################################
+
+Robot please tell something about yourself, navigate to the office, look for Mason, and follow him.
+
+
+###############################################################################
+#
+# Example 23
+#
+###############################################################################
+
+Robot please say a joke, navigate to the living table, locate Noah, and pick up the cloth from the living shelf.
+
+
+###############################################################################
+#
+# Example 24
+#
+###############################################################################
+
+Could you take the apple from the bar, deliver it to Charlotte in the bed, and tell what day is today.
+
+
+###############################################################################
+#
+# Example 25
+#
+###############################################################################
+
+Robot please navigate to the TV stand, locate Alexander, take him to the bedroom, and grasp the cloth from the sink.
+
+
+###############################################################################
+#
+# Example 26
+#
+###############################################################################
+
+Robot please answer a question, grasp the apple from the bookcase, and give it to Mason in the TV stand.
+
+question
+	Q: January has 28 days. True or false?
+	A: False January has 31 days not 28.
+
+###############################################################################
+#
+# Example 27
+#
+###############################################################################
+
+Robot please navigate to the bed, find Angel, take her to the living room, and navigate to the sink, look for Ethan.
+
+
+###############################################################################
+#
+# Example 28
+#
+###############################################################################
+
+Could you answer a question, navigate to the sink, find William, and guide him to the Kitchen.
+
+question
+	Q: Hey what's up?
+	A: I don't know since I've never been there.
+
+###############################################################################
+#
+# Example 29
+#
+###############################################################################
+
+Could you please enter to the living room, locate William, follow him, and say your team's affiliation.
+
+
+###############################################################################
+#
+# Example 30
+#
+###############################################################################
+
+Go to the sink, look for Angel, answer a question, and look for Madison in the bed.
+
+question
+	Q: Who used first the word Robot?
+	A: The word robot was first used by Czech writer Karel Capek.
+
+###############################################################################
+#
+# Example 31
+#
+###############################################################################
+
+Navigate to the cabinet, find James, and guide him to the exit.
+
+
+###############################################################################
+#
+# Example 32
+#
+###############################################################################
+
+Could you find a chips in the office, and give it to Isabella in the desk.
+
+
+###############################################################################
+#
+# Example 33
+#
+###############################################################################
+
+Could you please look for Robin in the bed, and guide her to the dining room.
+
+
+###############################################################################
+#
+# Example 34
+#
+###############################################################################
+
+Could you please answer a question, pick up the paprika from the drawer, and hand it to me.
+
+question
+	Q: There are seven days in a week. True or false?
+	A: True there are seven days in a week.
+
+###############################################################################
+#
+# Example 35
+#
+###############################################################################
+
+Robot please put coke on the bar, and grasp the cloth from the desk.
+
+
+###############################################################################
+#
+# Example 36
+#
+###############################################################################
+
+Could you go to the bed, locate Isabella, and guide her to the Kitchen.
+
+

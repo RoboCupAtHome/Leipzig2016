@@ -1,0 +1,468 @@
+﻿###############################################################################
+#
+# Example 1
+#
+###############################################################################
+
+Robot please locate James in the dining room, follow him, and locate Ava in the desk.
+
+
+###############################################################################
+#
+# Example 2
+#
+###############################################################################
+
+Please go to the dining table, look for Noah, and guide him to the dining table.
+
+
+###############################################################################
+#
+# Example 3
+#
+###############################################################################
+
+Please pick up the baby sweets from the desk, look for Alexander in the office, and follow him.
+
+
+###############################################################################
+#
+# Example 4
+#
+###############################################################################
+
+Please look for Mason in the sink, and escort him to the exit.
+
+
+###############################################################################
+#
+# Example 5
+#
+###############################################################################
+
+Locate Emma in the dining table, take her to the bedroom, and answer a question.
+
+question
+	Q: Which company makes ASIMO?
+	A: Honda
+
+###############################################################################
+#
+# Example 6
+#
+###############################################################################
+
+Robot please navigate to the desk, find James, and escort him to the exit.
+
+
+###############################################################################
+#
+# Example 7
+#
+###############################################################################
+
+Could you please locate Emily in the dining table, and take her to the exit.
+
+
+###############################################################################
+#
+# Example 8
+#
+###############################################################################
+
+Could you find Ava in the TV stand, and guide her to the exit.
+
+
+###############################################################################
+#
+# Example 9
+#
+###############################################################################
+
+Robot please find a coke in the Kitchen, and deliver it on the sideshelf.
+
+
+###############################################################################
+#
+# Example 10
+#
+###############################################################################
+
+Please take the paprika from the cupboard, find Liam in the living table, and navigate to the TV stand, look for Noah.
+
+
+###############################################################################
+#
+# Example 11
+#
+###############################################################################
+
+Could you answer a question, look for Alexander in the dining room, and follow him.
+
+question
+	Q: Which city hosted last year's RoboCup?
+	A: In Hefei China.
+
+###############################################################################
+#
+# Example 12
+#
+###############################################################################
+
+Go to the sink, look for Emma, answer a question, and answer a question.
+
+question
+	Q: Who is president of the galaxy in The Hitchhiker's Guide to the Galaxy?
+	A: Zaphod Beeblebrox
+question
+	Q: Who is the helicopter pilot in the A-Team?
+	A: Captain Howling Mad Murdock
+
+###############################################################################
+#
+# Example 13
+#
+###############################################################################
+
+Could you please get the cloth from the desk, get the apple from the living table, and say the day of the month.
+
+
+###############################################################################
+#
+# Example 14
+#
+###############################################################################
+
+Please take the cloth from the sink, bring it to Michael in the TV stand, and tell your team's country.
+
+
+###############################################################################
+#
+# Example 15
+#
+###############################################################################
+
+Could you go to the living table, look for Jacob, guide him to the exit, and take the baby sweets from the bedside.
+
+
+###############################################################################
+#
+# Example 16
+#
+###############################################################################
+
+Could you please take the baby sweets from the cabinet, deliver it to Jacob in the TV stand, and get the paprika from the sideshelf.
+
+
+###############################################################################
+#
+# Example 17
+#
+###############################################################################
+
+Could you please go to the TV stand, find Emma, get the baby sweets from the living shelf, and give it to Michael in the desk.
+
+
+###############################################################################
+#
+# Example 18
+#
+###############################################################################
+
+Robot please look for William in the dining table, enter to the kitchen, find Taylor, and follow her.
+
+
+###############################################################################
+#
+# Example 19
+#
+###############################################################################
+
+Robot please look for Emily in the desk, pick up the apple from the drawer, and deliver it on the sideshelf.
+
+
+###############################################################################
+#
+# Example 20
+#
+###############################################################################
+
+Enter to the living room, locate Emily, follow her, and go to the sink, look for Jacob.
+
+
+###############################################################################
+#
+# Example 21
+#
+###############################################################################
+
+Could you put bisquits on the sideshelf, and navigate to the TV stand, look for Daniel.
+
+
+###############################################################################
+#
+# Example 22
+#
+###############################################################################
+
+Navigate to the sink, look for William, find Daniel in the dining table, and go to the desk, find Michael.
+
+
+###############################################################################
+#
+# Example 23
+#
+###############################################################################
+
+Robot please locate James in the TV stand, escort him to the exit, and tell a joke.
+
+
+###############################################################################
+#
+# Example 24
+#
+###############################################################################
+
+Could you say something about yourself, find Alexander in the desk, and pick up the paprika from the dining table.
+
+
+###############################################################################
+#
+# Example 25
+#
+###############################################################################
+
+Robot please go to the sink, find Emily, take the baby sweets from the living table, and place it on the sink.
+
+
+###############################################################################
+#
+# Example 26
+#
+###############################################################################
+
+Please get the cloth from the sink, go to the TV stand, look for Ava, and guide her to the desk.
+
+
+###############################################################################
+#
+# Example 27
+#
+###############################################################################
+
+Could you deliver apple on the living shelf, and pick up the paprika from the dining table.
+
+
+###############################################################################
+#
+# Example 28
+#
+###############################################################################
+
+Please tell the time, look for James in the kitchen, and follow him.
+
+
+###############################################################################
+#
+# Example 29
+#
+###############################################################################
+
+Could you take the paprika from the sideshelf, find Mason in the Kitchen, and follow him.
+
+
+###############################################################################
+#
+# Example 30
+#
+###############################################################################
+
+Robot please tell your team's affiliation, tell what day is today, and tell what day is tomorrow.
+
+
+###############################################################################
+#
+# Example 31
+#
+###############################################################################
+
+Could you please find William in the bed, and take him to the Kitchen.
+
+
+###############################################################################
+#
+# Example 32
+#
+###############################################################################
+
+Could you go to the living table, locate William, enter to the dining room, look for Emily, and follow her.
+
+
+###############################################################################
+#
+# Example 33
+#
+###############################################################################
+
+Could you enter to the office, locate the spponge, and hand it to me.
+
+
+###############################################################################
+#
+# Example 34
+#
+###############################################################################
+
+Navigate to the TV stand, find Liam, and guide him to the kitchen.
+
+
+###############################################################################
+#
+# Example 35
+#
+###############################################################################
+
+Find Noah in the Kitchen, follow him, and get the cloth from the sideshelf.
+
+
+###############################################################################
+#
+# Example 36
+#
+###############################################################################
+
+Please say what day is tomorrow, get the cloth from the sink, and answer a question.
+
+question
+	Q: How many metres are in a mile?
+	A: About 1609 metres
+
+###############################################################################
+#
+# Example 37
+#
+###############################################################################
+
+Robot please go to the dining room, find Daniel, follow him, and tell the day of the month.
+
+
+###############################################################################
+#
+# Example 38
+#
+###############################################################################
+
+Robot please find Ethan in the sink, navigate to the living room, locate Alexander, and follow him.
+
+
+###############################################################################
+#
+# Example 39
+#
+###############################################################################
+
+Locate Isabella in the cabinet, take her to the exit, and look for Ethan in the bed.
+
+
+###############################################################################
+#
+# Example 40
+#
+###############################################################################
+
+Could you please go to the bed, look for Alexander, navigate to the corridor, locate Noah, and follow him.
+
+
+###############################################################################
+#
+# Example 41
+#
+###############################################################################
+
+Go to the sink, look for Mason, navigate to the dining room, locate James, and follow him.
+
+
+###############################################################################
+#
+# Example 42
+#
+###############################################################################
+
+Robot please navigate to the TV stand, find Ava, pick up the apple from the bar, and deliver it to Robin in the bed.
+
+
+###############################################################################
+#
+# Example 43
+#
+###############################################################################
+
+Robot please tell the day of the month, enter to the corridor, locate Isabella, and follow her.
+
+
+###############################################################################
+#
+# Example 44
+#
+###############################################################################
+
+Could you enter to the dining room, look for Emma, follow her, and navigate to the sink, look for Daniel.
+
+
+###############################################################################
+#
+# Example 45
+#
+###############################################################################
+
+Could you locate Robin in the office, follow her, and find Alexander in the cabinet.
+
+
+###############################################################################
+#
+# Example 46
+#
+###############################################################################
+
+Please go to the living table, look for William, take him to the exit, and pick up the paprika from the living shelf.
+
+
+###############################################################################
+#
+# Example 47
+#
+###############################################################################
+
+Could you please place tray on the sideshelf, and answer a question.
+
+question
+	Q: Which city hosted last year's RoboCup?
+	A: In Hefei China.
+
+###############################################################################
+#
+# Example 48
+#
+###############################################################################
+
+Locate Michael in the cabinet, enter to the kitchen, locate William, and follow him.
+
+
+###############################################################################
+#
+# Example 49
+#
+###############################################################################
+
+Could you please deliver apple on the bookcase, and locate Ava in the desk.
+
+
+###############################################################################
+#
+# Example 50
+#
+###############################################################################
+
+Could you enter to the kitchen, locate the choco syrup, and hand it to me.
+
+

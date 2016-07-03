@@ -1,0 +1,449 @@
+﻿###############################################################################
+#
+# Example 1
+#
+###############################################################################
+
+Robot please get the food from the kitchen and put it on the living room
+
+food
+	apple
+kitchen
+	sideshelf
+living room
+	living shelf
+
+###############################################################################
+#
+# Example 2
+#
+###############################################################################
+
+Could you please get the toiletries from the kitchen and deliver it on the living room
+
+toiletries
+	cloth
+kitchen
+	dining table
+living room
+	living shelf
+
+###############################################################################
+#
+# Example 3
+#
+###############################################################################
+
+Locate a person and escort him to the dining table
+
+a person
+	Is at the TV stand 
+	Michael
+
+###############################################################################
+#
+# Example 4
+#
+###############################################################################
+
+Could you please take the candies from the kitchen and give it to me
+
+candies
+	baby sweets
+kitchen
+	bar
+
+###############################################################################
+#
+# Example 5
+#
+###############################################################################
+
+Could you please follow him
+
+Remarks
+	Person, Emily, is in the bed
+
+###############################################################################
+#
+# Example 6
+#
+###############################################################################
+
+Tell something
+
+Remarks
+	the time
+
+###############################################################################
+#
+# Example 7
+#
+###############################################################################
+
+Robot please get the food from the kitchen and put it on the living room
+
+food
+	apple
+kitchen
+	sideshelf
+living room
+	living shelf
+
+###############################################################################
+#
+# Example 8
+#
+###############################################################################
+
+Could you please pick up the paprika from the bookcase and put it on the kitchen
+
+kitchen
+	bookcase
+
+###############################################################################
+#
+# Example 9
+#
+###############################################################################
+
+Could you please put toiletries on the living room
+
+toiletries
+	soap
+living room
+	living shelf
+
+###############################################################################
+#
+# Example 10
+#
+###############################################################################
+
+Locate a person and escort her to the exit
+
+a person
+	Is at the cabinet 
+	Emily
+
+###############################################################################
+#
+# Example 11
+#
+###############################################################################
+
+Robot please follow her
+
+Remarks
+	Person, James, is in the bed
+
+###############################################################################
+#
+# Example 12
+#
+###############################################################################
+
+Robot please get the food from the Kitchen and deliver it to Ava in the bed
+
+food
+	apple
+Kitchen
+	bookcase
+
+###############################################################################
+#
+# Example 13
+#
+###############################################################################
+
+Robot please tell something
+
+Remarks
+	something about yourself
+
+###############################################################################
+#
+# Example 14
+#
+###############################################################################
+
+Could you locate a person and guide him to the exit
+
+a person
+	Is at the cabinet 
+	Noah
+
+###############################################################################
+#
+# Example 15
+#
+###############################################################################
+
+Could you get the candies from the kitchen and put it on the living room
+
+candies
+	baby sweets
+kitchen
+	bar
+living room
+	living shelf
+
+###############################################################################
+#
+# Example 16
+#
+###############################################################################
+
+Please get the baby sweets from the sink and bring it to a person
+
+a person
+	Is at the TV stand 
+	Noah
+
+###############################################################################
+#
+# Example 17
+#
+###############################################################################
+
+Could you please find a food in the bedroom
+
+food
+	A object
+
+###############################################################################
+#
+# Example 18
+#
+###############################################################################
+
+Please deliver drinks on the kitchen
+
+drinks
+	coconut milk
+kitchen
+	sink
+
+###############################################################################
+#
+# Example 19
+#
+###############################################################################
+
+Robot please pick up the cloth from the desk and deliver it to a person
+
+a person
+	Is at the TV stand 
+	Noah
+
+###############################################################################
+#
+# Example 20
+#
+###############################################################################
+
+Could you please follow him
+
+Remarks
+	Person, Sophia, is in the desk
+
+###############################################################################
+#
+# Example 21
+#
+###############################################################################
+
+Please get the food from the Kitchen and put it on the living room
+
+food
+	paprika
+Kitchen
+	bookcase
+living room
+	TV stand
+
+###############################################################################
+#
+# Example 22
+#
+###############################################################################
+
+Could you please get the food from the kitchen and deliver it to a person
+
+food
+	paprika
+kitchen
+	sink
+a person
+	Is at the TV stand 
+	Mason
+
+###############################################################################
+#
+# Example 23
+#
+###############################################################################
+
+Could you find a person and escort him to the living table
+
+a person
+	Is at the TV stand 
+	Alexander
+
+###############################################################################
+#
+# Example 24
+#
+###############################################################################
+
+Robot please grasp the baby sweets from the living shelf and put it on the kitchen
+
+kitchen
+	sink
+
+###############################################################################
+#
+# Example 25
+#
+###############################################################################
+
+Robot please locate a chips
+
+chips
+	Place it in the kitchen
+
+###############################################################################
+#
+# Example 26
+#
+###############################################################################
+
+Could you look for a tray
+
+tray
+	Place it in the living room
+
+###############################################################################
+#
+# Example 27
+#
+###############################################################################
+
+Could you please locate a egg
+
+egg
+	Place it in the bedroom
+
+###############################################################################
+#
+# Example 28
+#
+###############################################################################
+
+Please locate a bisquits
+
+bisquits
+	Place it in the living room
+
+###############################################################################
+#
+# Example 29
+#
+###############################################################################
+
+Grasp the candies from the kitchen and bring it to a person
+
+candies
+	baby sweets
+kitchen
+	dining table
+a person
+	Is at the sink 
+	William
+
+###############################################################################
+#
+# Example 30
+#
+###############################################################################
+
+Could you please take the toiletries from the kitchen and deliver it on the living room
+
+toiletries
+	cloth
+kitchen
+	sink
+living room
+	TV stand
+
+###############################################################################
+#
+# Example 31
+#
+###############################################################################
+
+Could you place toiletries on the corridor
+
+toiletries
+	spponge
+corridor
+	cabinet
+
+###############################################################################
+#
+# Example 32
+#
+###############################################################################
+
+Please look for a person and take him to the cabinet
+
+a person
+	Is at the TV stand 
+	Michael
+
+###############################################################################
+#
+# Example 33
+#
+###############################################################################
+
+Robot please locate a drinks in the Kitchen
+
+drinks
+	A object
+
+###############################################################################
+#
+# Example 34
+#
+###############################################################################
+
+Could you please say something
+
+Remarks
+	a joke
+
+###############################################################################
+#
+# Example 35
+#
+###############################################################################
+
+Guide a person to the kitchen
+
+a person
+	Robin
+
+###############################################################################
+#
+# Example 36
+#
+###############################################################################
+
+Could you put food on the living room
+
+food
+	paprika
+living room
+	TV stand
+
